@@ -1,6 +1,6 @@
 # The Manager's Path
 
-**JAN 22**
+# JAN 22
 
 ## 1: Management 101
 
@@ -43,7 +43,7 @@ Mentioned by Michael: [Office Vibe](https://www.officevibe.com)
 
 --
 
-**JAN 29: Read chapters 2-3**
+# JAN 29
 
 ## 2: Mentoring
 
@@ -53,7 +53,7 @@ Mentioned by Michael: [Office Vibe](https://www.officevibe.com)
 - New hires
 - Technical or career mentoring
 
-## Camille's tips
+### Camille's tips
 
 - Don't disappear
 - Listen carefully
@@ -63,7 +63,7 @@ Mentioned by Michael: [Office Vibe](https://www.officevibe.com)
 - Have a project for them to work on
 - Have them present at the end of the program
 
-## And a few more
+### And a few more
 
 - A good mentor is someone who has more experience than you
 - Can communicate that experience.
@@ -101,3 +101,9 @@ But most of the group feels a technical manager needs to stay technical (to some
 Being a tech lead should be a role rather than a position.
 You don't have to be a super experienced developer to be able to lead a team.
 What you actually need are good communication skills, empathy, and organisational skills.
+
+# FEB 5
+
+## 4: Managing People
+
+## 5: Managing a Team
