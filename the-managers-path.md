@@ -184,4 +184,167 @@ What you actually need are good communication skills, empathy, and organisationa
 
 ## 5: Managing a team
 
+**Why do we think leadership is natural? how do we practice in the workplace?**
+
+- Michael: Similarity with Family - although you get thrown in the deep end
+- Michael: Organised experiences with organisations like scouts,
+  dance clubs where management of a group to achieve a goal is modelled and taught
+
+A manager should have a _large_ impact on an organisation rather than a senior developer.
+A lot of senior devs seem not to be able to grasp that and wonder why they don't transition.
+
+Managers role is to:
+
+- Keep team focused
+- Make sure tech deliveries are met
+
+Managers need not be _most_ technical in the team,
+there could be in different roles, for example people managers.
+
+**About staying technical**
+
+- Keep career options open
+- Credibility
+- Understand processes
+- Foresee bottlenecks
+
+> if you truly wish to command the respect of an engineering team,
+they must see you as technically credible. Without technical credibility you face an uphill battle,
+and even though you may be able to get into a position of leadership in one company,
+your options will be limited. Don’t underestimate the value
+of your technical skills as you work to become a successful engineering manager.
+
+> Why bother writing any code if all you’re doing is small stuff?
+The answer is that you need to stay enough in the code
+to see where the bottlenecks and process problems are.
+
+> It’s hard to make up lost time when you stop writing code,
+and if you do it too early in your career,
+you may never achieve sufficient technical savvy to get beyond the role of middle management.
+
+Job of a team lead is about "determining shortest path through system to implement new feature"
+
+Discussion of a manager that writes some code vs no code (pure manager).
+Are you on a maker's schedule or a manager's schedule?
+Sometimes it is hard to balance in jobs that require both.
+
+When promoted over a peer:
+  
+- be vulnerable, open, pick your battles, be mature
+- be mature, interesting that that needs still to be mentioned,
+maybe it is mentioned to evoke that thought of maturity :)
+
+#### Debugging dysfunctional teams
+
+- *Not shipping*
+  - infrequent releases could be because of poor release tooling,
+    heavily manual testing, features that are too big
+    or developers who don't know how to break their work down
+  - know when to push and when not to - sounds easy but how do you know when to do each
+  - do things that hurt regularly to remove bottlenecks
+  - resource contentions for being able to ship
+  - Michael: reminds me of book [Tom DeMarco "Slack, Getting Past Burnout, Busywork, and the Myth of Total Efficiency"](https://www.amazon.com/Slack-Getting-Burnout-Busywork-Efficiency/dp/0767907698)
+- *People drama*
+  - brilliant jerks, not team players, negative person leads to a toxic environment
+  - Michael: we find pairing, inter team one-on-one's
+    and a regular rotation of contractors has helped that - 
+    that said we are becoming less contractors and one team
+    so no inter-team rotation - key to hire the right "cultural fit" -
+    the person who will excel at our place of work
+  - Michael: have seen a number of examples of people underachievin
+    in one job only to change jobs and excel - just the right fit?
+  - nip it in the bud quickly
+- *Unhappiness due to overwork*
+  - "system sustainability" over "technical debt" 20%
+  - Michael: I have seen this work and not work, really have to get business onboard
+  - Elle: cleaning the code base as you go, and doing improvements
+    as part of feature work along the way. Cause stopping feature delivery
+    for a certain amount of time to do refactoring, just never works.
+  - Bug free Tuesday or Patch Thursday strategies
+  - Michael: had this in first team I lead at RedBubble - we had the most boring job,
+    recreating platform for DR in cloud in a test driven way but we were the fun team!
+- *Collaboration problems between teams*
+  - regular catchups, non work related activities
+  - Michael: I would still prefer a coding dojo/coding competition over go carts
+
+#### The shield
+
+- Don't treat the team like children
+- Provide context
+- Alleviate gossip
+
+> only once was I not shielded, when I worked directly under the CEO
+
+> ability to switch context from reporting to higher level stakeholders,
+  to dealing with underperformance, to celebrating a team win all before lunch
+
+#### How to drive good decisions
+
+1. Create a data-driven culture
+  - Michael: have seen 2 extremes of this, it will be done when it is done
+    and if you don't get the increase in A/B test then throw it all out and try again
+2. Develop customer empathy to help provide context around work
+3. Look into the future
+4. Review the outcomes of your decisions and projects
+5. Run retrospectives
+
+#### Conflict avoider vs conflict taming
+
+**Do's and don'ts of managing conflict:**
+
+1. Don't rely exclusively on consensus
+2. Do set up precesses to depersonalise decisions,
+   for example shared understanding of the goals, risks and questions to be answered
+3. Don't turn a blind eye to simmering issues
+4. Do address issues without too much drama
+5. Don't take it out on other teams
+6. Do remember to be kind, not "nice"
+7. Don't be afraid of conflict
+8. Do get curious
+
+#### Team cohesion destroyers
+
+> When companies talk about hiring for “culture fit,”
+  they often mean they want to hire people they can be friendly with.
+  While this can have some unwanted consequences, such as discrimination,
+  it comes from a wise place. Teams that are friendly are happier, gel faster,
+  and tend to produce better results.
+
+- Brilliant jerk
+- Non-communicator
+- Lacking respect
+
+#### Advanced project management rules of thumb
+
+- None of this is a replacement for agile project management
+- You have 10 productive engineering weeks per engineer per quarter
+- Budget 20% of time for generic sustaining engineering work across the board
+- As you approach deadline, it is your job to say no to new features, and by that to cut scope
+- Use the doubling rule for quick estimates, but push for planning time to estimate longer tasks
+- Be selective about what you bring to the team to estimate
+
+#### Assessing Your Own Experience
+
+- What are your new responsibilities now that you’re the manager of a team?
+  What tasks have you stopped doing or handed off to someone else
+  in order to make time for these new responsibilities?
+- How well do you feel you know the day-to-day challenges of writing,
+  deploying, and supporting code on your team?
+- How often does your team mark work as completed?
+- When was the last time you wrote a feature, debugged a problem,
+  or paired with a member of your team on some code he or she was struggling with?
+- Are there one or two team members who cause the bulk of negativity on the team?
+  What is your plan for getting rid of the problem moving forward?
+- Do your team members seem engaged with one another? Do they smile in meetings?
+  Make jokes in chat? Get coffee or lunch together?
+  When was the last time you all sat down together without talking about work?
+- How does your team make decisions? Do you have a process
+  for assigning decision-making responsibility?
+  What decisions do you hold yourself responsible for making?
+- When was the last time you reviewed a completed project to see if it had achieved its goals?
+- How well does your team understand why they are working on the projects they are working on?
+- When was the last time you cut scope on a project? What did you use to determine which pieces to cut?
+
+# FEB 19
+
 ## 6: Managing multiple teams
