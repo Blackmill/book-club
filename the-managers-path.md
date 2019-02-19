@@ -348,3 +348,159 @@ maybe it is mentioned to evoke that thought of maturity :)
 # FEB 19
 
 ## 6: Managing multiple teams
+
+### Managing time
+
+- Manager schedule
+- Transition period where you miss code
+- Learn to differentiate between "urgent" and "important" when prioritising tasks
+- Set times in the day to look at email -- rather than respond whenever an email comes in
+- Example of important but not urgent task is preparing for meetings -- to ensure meetings are healthy, short, and productive.
+
+Common tasks:
+
+- Setting goals for the teams
+- Help product team add details to product road map
+- Following up on task completion
+
+
+### When to delegate?
+
+Like a juggler, or plates spinner...
+> Your plates are the people and projects you're overseeing, and your job is to figure out how much attention each one needs at what time.
+
+> Delegation is the primary way you claw yourself out of the feeling of having too many plates spinning at once.
+
+- Delegate simple and frequent tasks
+- Do simple and infrequent tasks
+- Use complex and infrequent tasks as training opportunities for rising leads
+- Delegate complex and infrequent tasks develop the team
+- **Pretty much delegate as much as you can**
+
+This brought a lot of conversation about raising people up beneath you. Giving them the work and teaching them how to do it so you can remove yourself from the day-to-day. 
+
+If you do everything yourself, why would you be promoted? You're too needed where you are. Whereas if you share your knowledge, you become dispensable and thus, moveable.
+
+We also discussed RACI a bit: http://www.valuebasedmanagement.net/methods_raci.html
+
+### Warning signs
+
+- Changed behaviour
+- Team lead claims progress is good but avoids update chats
+- Team has no energy
+- Project list changes every week
+- Small team but seems fragmanted
+
+### Strategies for saying no
+
+- "Yes and..." for example: 
+
+> Yes we can do this, and all we will need to do is delay the start of this other project that is currently on the road map
+
+- Create policies
+- "Help me say yes" - learn more facts
+- Appeal to budget
+- Act together as a team to say no
+
+> When you know that you need to say no, it's better to say it quickly than to delay and drag out the process
+
+We talked about difficult "No" conversations. Particularly with directions in a hierarchy. Saying no upwards is harder, especially with a strongly hierarchical culture. Saying no downwards can feel much simpler as you expect reports to abide by it, but if you don't do it early enough that can quite difficult.
+
+Establishing relationships and sharing the decision amongst the group makes a no easier as it becomes a consensus and everybody has a had a chance to be heard.
+
+### Technical elements beyond code
+
+> Assuming that the job at this level becomes essentially non-technical is a mistake
+
+Book: [First, Break All the Rules](https://www.amazon.com/First-Break-All-Rules-Differently-ebook/dp/B01E7M6INO) discusses several questions:
+
+- Do I know what is expected of me at work?
+- Do I have the materials and equipment I need to do my work right?
+- Do I have the opportunity to do what I do best every day?
+
+### Measuring the health of your teams
+
+Key indicators for a team that knows what to do and has the tools and time to do it:
+
+- Frequency of code releases
+- Frequency of code check-ins
+- Infrequency of incidents
+
+> I bet if you honestly take a look at a team that isn't releasing frequently, you'll see cracks.
+
+**Your job is to enable your teams to be productive, challenge them to do better work, and help them find the time to make their work more interesting.**
+
+> You have to be the advocate and push for technical process improvements that can lead to increased engineer productivity, even if you're not implementing them all yourself.
+
+<br>
+> Determining the level of software quality you need for the product you're building and adjusting that measure every time us a technical challenge for you, the manager, to help address.
+
+- Incident management and escalation process for issue analysis, to learn from the problem, and working out how to reduce or prevent them in the future
+- Otherwise engineers on-call get burnt out
+- Overemphasising incident prevention may cause for development work to slow that you build defect free code -- which is almost as bad as moving too fast and shipping buggy unstable code.
+
+### Us vs. them, or how to be a team player
+
+Inside clique:
+
+- Will likely dissolve when their leader leaves the company
+- Is resistant to outside ideas
+- Empire building
+- Inflexible
+
+We talked about this with individuals who don't click easily with the existing team. Another personal example was a mirror of the one in the book.
+
+This evolved into a conversation about culture. Do you hire people so that they fit easier? Do you improve your onboarding to help people mesh better? We talked about ensuring your hires share the same values as the organisation. 
+
+> As a manager, be careful about focusing on your teams to the exclusion of the wider group.
+
+Durable teams:
+
+- Resilient to loss of individuals
+- Driven to find better ways to achieve their purpose
+- First-team focused
+- Open to changes that serve their purpose
+
+How do you know your team is healthy and strong? Resilience and communication are vital, but what are good indicators? 
+
+Talking about how sharing staff between teams, via regular rotations, promotes a lot of benefits. Examples:
+
+- Junior engineers doing rotating through different teams every few months when they first join and then choosing one 6-8 months in.
+- A developer and support engineer swapping each week. The developer can learn the pain of support, provide deep product knowledge, and bring bug-fixing passion back to the dev team. The support engineer pairs on fixing bugs and improving features.
+- A company that starts every employee in Support for the first week
+
+
+### The virtues of laziness and impatience
+
+> "Laziness, impatience, and hubris" are virtues of engineers
+> -- Larry Wall, [Programming Perl](https://www.amazon.com/Programming-Perl-Unmatched-processing-scripting-ebook-dp-B007S291SA/dp/B007S291SA)
+
+```
+According to Larry Wall(1), the original author of the Perl programming language, there are three great virtues of a programmer; Laziness, Impatience and Hubris
+
+- Laziness: The quality that makes you go to great effort to reduce overall energy expenditure. It makes you write labor-saving programs that other people will find useful and document what you wrote so you don't have to answer so many questions about it.
+- Impatience: The anger you feel when the computer is being lazy. This makes you write programs that don't just react to your needs, but actually anticipate them. Or at least pretend to.
+- Hubris: The quality that makes you write (and maintain) programs that other people won't want to say bad things about.
+
+Ref: http://threevirtues.com
+```
+
+> These virtues persist into leadership, and learning how to channel these traits into advantage is something I encourage all managers to do
+
+**Basically, work smarter, not harder**
+
+### Assessing your own experience
+
+- When was the last time you reviewed your schedule for things that you’re doing but that aren’t providing a lot of value for you or your team? Look back on the past couple of weeks. Look forward to the next couple of weeks. What did you accomplish, and what do you hope to accomplish?
+- If you are still writing code, how does this fit in with the rest of your schedule? Are you doing it after hours? What’s driving you to continue to spend this time?
+- What was the last task you delegated to a member of one of your teams? Was it simple or complex? How is the person you delegated to handling the new task?
+- Who are the rising leaders of your teams? What is your plan for coaching them to take on bigger leadership roles? What tasks are you giving them to prepare them for more responsibility?
+- Does the process of writing, releasing, and supporting code seem to function smoothly on your teams? When was the last time there was a noticeable incident with part of this process? What happened, and how did the team respond to it? How often does the process encounter these exceptional conditions?
+- When was the last time you pushed your team to cut the scope of a project? When you cut scope do you cut features, technical quality, or both? How do you decide?
+- When was the last time you sent email after 8 pm or on the weekend? Did the person you sent that email to respond? Did you need him or her to respond?
+
+# FEB 26
+
+## 7: Managing managers
+
+
