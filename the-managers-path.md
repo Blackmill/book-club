@@ -503,4 +503,312 @@ Ref: http://threevirtues.com
 
 ## 7: Managing managers
 
+The job expectations for managing managers similar to managing multiple teams
+but you will now be responsible for far more people
+who may even be spread across disciplines for which you are not experienced.
 
+Everyone agreed that this chapter felt very similar to Chapter 6: Managing Multiple Teams.
+
+- Managing managers means you are directly managing
+  about the same number of people as if you were managing multiple teams.
+- When compared to managing multiple teams, that it is a similar hierarchy
+  for managing Tech Leads as it is to managing managers.
+
+### Adjusting to the role
+
+Due to the added level of abstraction between you and the engineers,
+it is more difficult to work out what needs your attention and where best to spend your time,
+particularly if a team is working outside of your skill set.
+
+Initially you'll want to follow up on all the little things until you figure out
+what you don’t need to follow up on.
+This will inevitably be a lot of work until you can adjust your focus.
+
+### The fallacy of the open-door policy
+
+It's common to hear a manager say they have an "open-door policy"
+but then find that people are not lining up to tell them about their concerns.
+It is the managers job to proactively ferret out problems.
+
+Everyone agreed that none of us had ever seen an open door policy work.
+Adam added that with open plan offices it was even more ridiculous because it simple became a metaphor.
+
+From open door policy we got onto accountability and discussing the section of the chapter
+which discusses how you are responsible for the performance of managers which you manage.
+We discussed how you are the manager need to support those managers below you.
+
+### Skip-level meetings
+
+These are meetings with the people who report to the people who report to you
+and they provide perspective on the health and focus of your teams.
+
+In smaller organisations, 1-1 meetings provide focused feedback
+but they are unrealistic with scale. A team lunch might be more appropriate
+at a large organisation.
+This approach can also make people more comfortable
+to see you 1-1 when there are sensitive topics to be addressed.
+
+The skip-level process also allows you to see when you are being "managed up" and keep grounded.
+
+Discussion on this topic revolved around the fact
+that Australian companies don't seem to use this process and we are not sure why.
+Lachlan spoke about having seen it to at Github.
+
+Discussing the process, Lachlan analogised it as being an elaborate process
+to check that the managers you managed are actually doing their job
+and are not just extremely good at managing you.
+
+Adam discussed how in small business common that roles cover a lot of aspects
+and that it is not feasible in many cases. That people often span aspects of multiple roles.
+
+Elle added that it is easier in big business for people to have the space to specialise
+which aligns closer to the things being covered in this chapter.
+
+### Manager accountability
+
+Mangers should be making your life easier but they may do this
+by hiding problems from you—they need to be held accountable.
+
+Even when it seems like there are mitigating circumstances,
+it is always the managers responsibility
+to keep the team moving forward although they may need your support or guidance.
+
+People pleasers try to ensure everyone is happy and have an inability to say "no".
+While they think they are helping moral and creating an environment
+where people feel comfortable to fail, the opposite is true.
+
+### Managing new managers
+
+As with any new role, people new to management are going to find
+there are a lot of things they don't know or understand.
+It is in your best interests to spend more with a new manager,
+ensure they know what they should be doing, and that they are doing it.
+
+Use more frequent skip-level meetings to monitor their performance
+and use the feedback to guide their development.
+
+Look for signs of over-work as an indicator
+that maybe the manager hasn't mastered delegation or is being overly controlling.
+
+### Managing experienced managers
+
+An experienced manger is likely to have the skills but,
+if they were hired in from outside the business,
+it's possible their management style doesn't match the culture of the organisation.
+It’s easier to gain access to industry information
+than it is to retrain someone who doesn't know how to work in your culture.
+
+While you can learn from experienced managers and collaborate on areas of difference,
+you are responsible for cultivating the culture of your organisation.
+
+### Hiring managers
+
+Hiring from outside an organisation can be tough—how do you interview for management skills?
+
+Make sure they have the skills you need and that they're a culture match for your organisation.
+
+ as a new manager you will be unproductive until you have learned how the company works.
+That this could take several weeks.
+
+[Years of experience is only a 3% indicator of future performance](https://www.wired.com/2015/04/hire-like-google/)
+
+That the research had found a 14% correlation between unstructured interviews and predicting future performance.
+That IQ test had a 26% predictive indicator,
+but that IQ tests were discriminatory, and that structured interviews had a 23% predictive percent.
+
+The most important thing to do is to define the role.
+Once you define the role (requirements) you look for someone who meets those requirements and then hire them.
+Defining what you are looking for is key, and added that when interviewing,
+it is important to standardise the process so that you can compare candidates accurately.
+
+Adam added that as interviewers, we tend to use these questions to filter out poor candidates.
+
+Elle discussed how when she hires for developers that she will get the candidate into the office to pair with someone for a day.
+That having someone work for a day with the rest of the team allows for a better perspective.
+She described how sometimes people who interview well can be disruptive when in a work situation;
+That sometimes people behave differently when on lunch with other peers;
+and that having them in the office was an effective way of finding out how they work.
+
+Lachlan talked about a book by [Laszlo Bock - Work Rules!](https://www.workrules.net),
+and that he had found it an interesting read to hear about hiring practices at google.
+
+**The interview**
+
+To evaluate skills:
+
+1. Roleplay:
+  - 1-1s
+  - dealing with an underperforming employee
+  - delivering negative a performance review
+  - an employee who's thinking about quitting
+1. Ask about:
+  - a project that was running behind schedule and what they did
+  - how they've coached employees who are struggling
+  - management philosophy
+1. Present to a room (but don't overvalue this)
+1. Technical skills
+  - abbreviated code test or Q&A
+  - mediate a technical debate
+
+When evaluating cultural fit:
+
+- review Chapter 9
+- do you need someone who dictates or collaborates
+
+Do thorough reference checks and ask them:
+
+- to describe the ways that the person succeeds as well as the ways they fail
+- would they work with or for this person again
+- what they love about the person, and what drives them crazy
+
+When hiring outside your skill set:
+
+- be cautious
+- ask the person to teach you about the work they do
+- ask lots of open questions
+
+Discussed that there is quite a bit of repetition when reading it front to back.
+Whereas some advice is good but lacking details on how to approach it.
+
+### Debugging dysfunctional organisations
+
+- Have a hypothesis
+- Check the data - gather data to form a picture but not enough data on what context, when to check, or how often...
+
+> Are production incidents happening that are taking up lots of time?
+> Are a bunch of people sick? Are they bickering over coding style in their code review comments?
+> Are the tickets that are being written vague, too big, too small?
+> Does the team seem upbeat in their communication style, sharing fun things
+> as well as important work in chat, or are they purely business?
+> Look at their calendars. Is the team spending many hours a week in meetings?
+> Is their manager not doing 1-1s?
+
+- Observe the team
+- Ask questions
+- Check the team dynamics - friendly? banter? work collaboratively?
+- Jump in to help - as the manager's manager, how can you be helpful?
+- Be curious
+
+### Setting expectations and delivering on schedule
+
+Hopefully someone asks you because you're late,
+because in an ideal situation people are informed and you are on time.
+
+Engineers often don’t want to estimate
+but even inaccurate estimates can help escalate complexity to the rest of the team.
+
+It's possible to do up-front work to reduce the unknowns
+and ultimately produce a more accurate estimate.
+Learn from past estimates both to help increase accuracy
+but also to understand how to better manage communication and expectation.
+
+> Therefore, you must always be aggressive about sharing estimates
+> and updates to estimates, even when people don’t ask,
+> especially if you believe that the project is critical or likely to take longer than a few weeks.
+> This means you must be aggressive about getting estimates,
+
+> Engineers often don’t want to estimate at all,
+> or estimate beyond the boundary of an agile sprint (generally two weeks).
+> This philosophy is completely reasonable if you believe that estimates must be fairly accurate,
+> that the requirements are unknown or will change frequently,
+> and that most of the work should be bound
+> to features that mostly fit within one or two sprint efforts.
+
+> So, accept the fact that you’ll need to do some degree of estimation.
+> Play with different methods, and see what works for your company,
+> but make it a habit across your teams.
+
+Keeping track of estimation vs actual time is useful for future estimations.
+
+Adam keeps track of estimation vs reality, and also per person,
+to get an idea for example of who is an optimistic estimator.
+
+Making estimates should incorporate:
+
+- 20% staff off time
+- 20% maintenance
+- 50-100% padding for unknowns
+
+100% padding can sometimes be too low for high risk items. And when there are many unknowns,
+adding 200 or 300 percent more time on the estimation is sometimes necessary.
+
+> Showing some empathy for the person providing pressure and being willing
+to help out in other ways can go a long way to shifting focus from blame to action.
+
+When you are being unnecessarily pushed,
+it is usually because someone is stressed or being pushed themselves.
+Show empathy for the person providing pressure and being willing to help out in other ways.
+
+Start a conversation with them is a good advice, which leads to conversation about reducing scope.
+
+Don't be afraid to work with stakeholders to cut scope.
+
+### Strategies for handling roadmap uncertainty
+
+Changes in strategy are where being stuck in “middle management” feels the most unpleasant.
+
+- Be realistic about the likelihood of changing plans given the size and stage of the company you work for.
+- Think about how to break down big projects into a series of smaller deliverables
+  so that you can achieve some of the results, even if you don’t necessarily complete the grand vision.
+- Don’t overpromise a future of technical projects.              
+- Dedicate 20% of your team’s schedule to “sustaining engineering.”
+- Understand how important various engineering projects really are.
+                
+### About staying technically relevant
+
+- Oversee technical investment
+- Ask informed questions
+- Analyse and explain engineering and business tradeoffs
+- Make specific requests
+- Use your experience as a gut check
+
+Possibly wouldn't have the time at this level to code.
+Keep active in writing code without bogging down the team.
+
+**How to:**
+
+- Read the code - review pull requests
+- Pick an unknown area, and ask an engineer - what engineer will think that this is efficient.
+  Maybe instead read the code and come to the engineer with questions
+- Attend postmortems - gives an idea of what's going wrong, finger on the pulse
+- Keep up with industry trends and software processes - are you supposed to go and learn typescript now?
+- Foster a network of technical people outside of the company
+- **Never stop learning**
+                
+**Assessing your own experience**
+
+1. How often do you talk to your skip-level reports?
+  Do you meet with them one on one, or as groups?
+  How do you proactively reach out to your teams?
+  How much time do you spend seeking out information,
+  instead of passively handling the information that comes to you?
+  When was the last time you sat in on a team meeting?
+- Without looking at your existing documentation,
+  write down your view of the job description for the engineering managers who report to you.
+  What are they responsible for? How do you evaluate them?
+  What areas are most important for success, in your opinion?
+- Now, look at the job description your company uses.
+  Are there differences in what you wrote compared to that description,
+  or do they match well?
+  Given that description, what things are you potentially overlooking in evaluating them?
+- Finally, do a quick mental review of their current performance.
+  What areas need coaching and development? Make time to cover this in your next 1-1.
+- If you manage an area that is outside of your technical comfort zone,
+  how often do you check in on that area to make sure things are going well?
+  Have you taken some time to learn from the manager of that area
+  a little bit about what it takes to succeed in that role?
+  What new things have you learned in the past three months
+  that help you understand that team better?
+- If you have one team that is clearly operating more smoothly than others,
+  what are the differences you notice in their processes? Their interactions?
+  Is their manager doing things differently than other managers?
+  How does the team interact with that manager,
+  and how does that manager interact with you?
+- What is your interview process for managers?
+  Do you spend time talking about their personal values and their management philosophy?
+  Do you have the team interview their potential manager,
+  or do you keep them out of the process?
+  Do you spend time getting references for candidates?
+- What are your organization’s goals this quarter? This year?
+  How are you merging product goals (if any) with the technical goals?
+  Does your organization have a mandate that is well understood by the teams?
