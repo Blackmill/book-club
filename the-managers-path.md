@@ -812,3 +812,165 @@ Keep active in writing code without bogging down the team.
 - What are your organization’s goals this quarter? This year?
   How are you merging product goals (if any) with the technical goals?
   Does your organization have a mandate that is well understood by the teams?
+  
+  # March 12
+  
+  ## Chapter 9: bootstrapping culture
+
+As the team grows and evolves, it’s important to attend to your culture as you would attend to any other important piece of infrastructure that you rely on.
+
+classic, unstructured “scrappy startup” model
+
+For many people who are attracted to startup culture, the ideas of “structure” and “process” are seen as pointless at best and harmful at worst.
+
+Everyone called out the insight that process and structure should be in aid of improving communication.
+
+
+
+Consider not only what you care about, but also how you can scale that knowledge and effort effectively as the company and team grows and evolves.
+
+Early startups attract people who are capable of dealing with extremely high amounts of uncertainty and risk in exchange for equally high degrees of freedom to operate.
+
+Having no titles is in one sense a decision, but in another sense it’s a decision that means you never need to decide what someone’s title will be, you won’t need to worry about promoting people to new titles, and you don’t need to build up the apparatus that will make future decisions about titles because you have removed that as an option.
+
+Deciding not to decide right now is a popular option for new companies, because it really doesn’t matter at the scale of a few people.
+
+[The Tyranny of Structurelessness](https://www.jofreeman.com/joreen/tyranny.htm) by Jo Freeman
+
+Pretending to lack structure tends to create hidden power structures resulting from the nature of human communication and the challenges of trying to scale that communication. Interestingly, Freeman describes a set of circumstances in which the unstructured group can, in fact, work:
+
+- It is task oriented
+- It is relatively small and homogeneous.
+- There is a high degree of communciation
+- There is a low degree of skill specialisation
+
+Hiring “full stack” engineers who are exclusively sourced from the professional and social networks of the current team results in low skill specialisation and high homogeneity. Forcing the team to be collocated lowers communication barriers. And perhaps most critically, having an engineering team that operates solely…
+
+Structure can come too early, and cause harm by slowing down a group that should be focused on other things.
+
+more people’s lives depend on you, so you need to consider your movements more carefully, but you still feel in control and can turn the plane relatively quickly.
+
+### Assessing your role
+
+- **People**: the more people you have, the more thoughtful structure you need to get everyone moving in the right direction.
+  Modern companies often put their structural focus on goal setting instead of trying to make all decisions from the top,
+- **Age**: the longer a company is around, the more habits become entrenched. On the other hand, the longer a company has been around, the more likely it is to continue to survive.
+- **Size of existing infrastructure**: the more existing business rules and infrastructure you have, the more you’ll need clarity on how to handle them.
+- **Risk tolerance**: are you in a highly regulated industry? Do you have a lot to lose if certain types of mistakes are made? Or are you in an unregulated industry, with little on the line? Your structures and processes should reflect this. In general, the more people you have depending on you and the larger the business is, the less risk you’ll be willing to take even without regulatory requirements.
+
+[John Gall’s book Systemantics](https://www.amazon.com/Systemantics-Systems-Work-Especially-They/dp/0812906748)
+A complex system that works is invariably found to have evolved from a simple system that worked. A complex system designed from scratch never works and cannot be patched up to make it work. You have to start over with a working simple system.
+
+My advice to leaders is simple: when failures occur, examine all aspects of reality that are contributing to those failures. The patterns you see are opportunities to evolve your structure, either by creating more or different structure or removing
+
+but that doesn’t mean that applying the lessons from a successful complex system will let you replicate that success in other places.
+
+Success, on the other hand, tempts us with the silver bullet, that one weird trick that could make everything great. If you want to learn from success, make sure you can identify the actual improvement you’re seeking when applying those lessons more broadly, and that you understand the context required to repeat that success.
+
+This is fundamentally about learning.
+
+### Creating your culture
+
+Frederick Laloux, [Reinventing Organizations](http://www.reinventingorganizations.com/)
+
+So what is culture? Culture is the generally unspoken shared rules of a community.
+
+cultural values are the glue that enables us to work as a team and make decisions when faced with uncertainty.
+
+thoughtfully created set of values that are actually values should reduce the kinds of surface discrimination that often happen at tech companies in favour of creating a real community of employees who share core principles and ways of communication.
+
+employees who truly embrace and exhibit all of the core values of a company tend to do well naturally. The fit is easy for them.
+
+### Applying your culture
+
+- First, define your culture. If you have a set of company values, map those values onto your team.
+- Second, reinforce your culture by rewarding people for exhibiting its values in positive ways.
+- Finally, use this as part of your interview process. Remind your interviewers of the values of the team, and ask them to look out explicitly for places where the interviewee seems to match or collide with these values.
+
+cultural fit is not about hiring friends.
+
+### Creating a cultural policy
+
+**Salary structure**
+
+we had no salary structure at all. Because of that lack of structure, most people were paid based on a combination of their previous jobs’ salary and their negotiating skills.
+
+John Allspaw’s blog post [“On Being a Senior Engineer”](https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/)
+
+Writing a career ladder:
+
+- Solicit participation from your team.
+- Look for examples.
+- Use both long-form descriptions and summaries.
+- Consider how the ladder relates to salary.
+- Provide many early opportunities for advancement.
+- Use narrow salary bands for early-career stages.
+- Use wide salary bands when and where you have fewer levels.
+- Consider your breakpoint levels
+- Recognise achievement.
+- Split management and technical tracks.
+- Consider making people management skills a mid-career requirement.
+- Years of experience.
+- Don’t be afraid to evolve over time.
+
+You need this wiggle room to retain talent who are performing well at their current levels but are not ready to take on the additional responsibility of the next level.
+
+You may even want to use it as the point at which your ladder levels get harder to achieve. Expect your team to cluster around this level, with fewer people above or below it.
+
+### Cross-functional teams
+
+Call them what you want — “pods” or “squads” or “pillars” — but cross-functional product development groups are a popular structure for a good reason. By putting everyone who is needed to make a project successful together in one group, you help the members of those teams focus on the project at hand, and you make the communication for the whole group much more effective.
+
+When we put cross-functional teams together, we are acknowledging that the most important communication — the communication that we need to favour above all else — is that which leads to effective product development and iteration. Note that this structure will not necessarily produce the most effective technology! In fact, it will probably produce systems that have some inefficiencies compared to companies that have a more engineering-centred team structure.
+
+This meant that you could still get technical guidance and oversight from your engineering manager, but your day-to-day work was determined by the needs of the pod’s roadmap.
+
+Without any process, your teams will struggle to scale. With the wrong process, they will be slowed down.
+
+Think of process as risk management. As your teams and systems grow, it’s almost impossible for any one person to keep the systems in her head.
+
+you should not put a complicated process on any activity where you want people to move quickly and where you believe the risk for change in that activity is low or that the risks themselves are obvious to the whole team.
+
+you need to be on the lookout for places where there is hidden risk, and draw those hidden risks out into the open.
+
+### Developing engineering processes
+
+**Code reviews**
+
+Code review is, for better or worse, a modern standard. Once you have a team of a certain size with a certain number of people working on a code base, code review can be a valuable tool for ensuring the stability and long-term quality of that code base.
+
+**Postmortem**
+
+instead of calling the process a postmortem, many have started calling it a “learning review” to indicate that its purpose is not determining cause of death but learning from the incident.
+
+- Resist the urge to point fingers and blame.
+- Look at the circumstances around the incident and understand the context of the events.
+- Be realistic about which takeaways are important and which are worth dropping.
+
+**Architecture review**
+
+How many people on the team are comfortable using this new system/writing this new language? Do we have production standards in place for this new thing? What is the process for rolling this out and training people to use it? Are there new operational considerations for using this?
+
+- Be specific about the kinds of changes that need architecture review.
+- The value of architecture review is in preparing for the review.
+- Choose the review board wisely.
+
+### Assessing your own experience
+
+- What policies do you have now? What practices? Have you written any of them down yet?
+- When was the last time you revisited them? Do you have company values? What are they?
+- How do you recognise them in your team? Do you have a career ladder? Do you feel it accurately reflects the team today? Does it reflect the team you want to have in the future? If not, can you improve it? What risks are most concerning for your team? For your company?
+- How can you mitigate those risks without burdening your team with unnecessary processes and bureaucracy?
+
+## Chapter 10
+
+you have to be able to manage yourself if you want to be good at managing others. The more time you spend understanding yourself, the way you react, the things that inspire you, and the things that drive you crazy, the better off you will be.
+
+Great managers are masters of working through conflict.
+
+[tarabrach.com](https://www.tarabrach.com/) and the writings of [Pema Chödrön](https://pemachodronfoundation.org/).
+
+Think about the other perspectives at play. Investigate your emotional reactions, and observe when those reactions make it hard to see clearly what’s going on around you, what needs to be said. Apply that curiosity to people. Apply it to process. Apply it to technology, and strategy, and business. Ask questions, and be willing to have your notions proven wrong.
+
+
+  
