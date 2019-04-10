@@ -167,3 +167,152 @@ Allowing a toxic employee to stay costs a company more than twice as much as the
 The toxic employee has likely built up a cadre of followers or sympathizers who will react negatively at first. Once the noxious employee has left, though, the results are almost always better than anyone could have anticipated. 
 
 ## Chapter 3: But I'm just trying to help
+
+> Some people really do want to help. They have good intentions. Most of us, in fact, want to make a difference, advance noble causes, and positively influence those around us. 
+
+> Victims hold onto the myth, "You can make me feel good (or bad) emotionally," 
+
+> I'd only be OK if you are pleased with my help.
+
+> Starting sentences with, "What you should do is…." or "Why don't you…." 
+
+> Suggesting action that could backfire on the other person but leaves the Rescuer out of harm's way. 
+
+> Drama-based helping fosters an unsavory mix of unhealthy emotions. It cultivates uncertainty, neediness, resentment, anxiety, narcissism, entitlement, dependency, and defensiveness, just to name a few. 
+
+> ...pattern of passive-aggressive manipulation, using the Victim role to garner sympathy, and then switching to the Persecutor to keep people from holding him accountable. This is a common pattern in leadership, and we've found it to be particularly prevalent in nonprofit and faith-based organizations. Why? Because passionate, committed people with big hearts are drawn to this line of work. Passion and commitment most easily morphs into Persecutor, and big-hearted love for people most easily morphs into Victim. 
+
+--
+
+## Chapter 4: Compassion: not for the faint of heart
+
+> "I am uncomfortable with this conversation because I want you to feel empowered and confident and I want to be helpful as a friend," she said. "I am willing to support you in problem-solving how to get what you want. I'm not willing to criticize Fred or continue to hear you complain about your situation and put yourself down. I care about you." 
+
+The notion of zero tolerance is itself drama. 
+
+> Compassion requires humility, creativity, and courage. Compassion doesn't mean letting someone off the hook, feeling sorry for them, or "loving them into good behavior." 
+
+> Compassion balances caring, concern, empathy and transparency with boundaries, goals, aspirations, and standards. It's the engine that turns conflict into a creative force. 
+
+> Compassionate accountability is the process of holding someone (including yourself) accountable... 
+
+> Compassion Triangle, with the skills of *Persistence, Vulnerability, and Resourcefulness* as the positive counterparts to Persecutor, Victim, and Rescuer respectively.
+
+> ...we chose the word Openness to replace Vulnerability. Openness captures the essence and intent of this skill set... 
+
+> "You and I are worthwhile." 
+
+### Openess
+
+Openness is a state of non-judgmental receptivity to your own and others' experiences. 
+
+Openness is the healthy alternative to Victim, involving transparency, courage with self and others, self-awareness, empathy, confidence in one's own adequacy, and a willingness to own and disclose emotions. It is the key to transparency, authenticity and emotional intelligence. Openness is about being tuned in to the physical, spiritual, and psychological activity inside you, inside others, and between you and others; and accepting these with a nonjudgmental attitude. 
+
+At its most basic level, conflict is a gap between what we want and what we are experiencing at a given point in time. 
+
+#### Three  ways to be open
+
+1. Emphasize
+
+Empathy is about emotional resonance, being able to appreciate and even experience emotions from another person's perspective. 
+
+  - Ask questions about how a person is feeling, what's important to them, and how they are experiencing a situation. This is not about their thoughts, opinions, or strategies; it's about their emotional experiences. Examples might include, "How are you doing with this transition?" or "What concerns you the most?" or "How are you feeling today?" 
+  - Affirm that it's OK to share feelings, that you care about the emotional part of another person's world. Examples; "I care about how you are feeling today. If you want to talk about it, I'd be glad to listen," or "I know this is a stressful situation, and I care about how it's affecting you." 
+  - Take time to listen, checking your understanding by repeating back what you thought you heard until the other person is satisfied. Example: "I heard you say you're anxious about making a mistake on this project and looking silly in front of your peers. Is this accurate?" 
+  - Avoid inserting your interpretations, analysis, or feelings. Empathy is not about you. Never say, "I know what you are feeling." People don't want you to know, they want you to care. Never start sentences with phrases like, "I think what you are feeling is…" or "Here's why you are feeling this way…" 
+  - Relate through personal experience. 
+
+> Emphasizing the shared feeling, rather than the content of the experience, prevents it from becoming competitive. 
+
+> ...there's a fine line between empathy and one-upping. 
+
+Masters of empathy are truly moved by what others are feeling. They can relate to your experience and want you to know because they really do care. And they do it in a wonderfully affirming way that doesn't call attention to themselves. 
+
+2. Validate
+
+  - **Affirming another person's experience does not condone their behavior, nor does it mean you agree with them. It simply sends the message that the experience is real to them, and matters to you.**
+  - Avoid disagreeing, discounting, or re-interpreting another person's experience through your own lens. Never say: "I don't know why you feel like that. It's not a big deal," or "What you should be feeling is…" 
+  - Thank the person for letting you know how they feel. For example: "I so appreciate you sharing this with me." 
+
+3. Disclosure
+
+Disclosure is about sharing how you are doing with what you are experiencing. The purpose is honesty, transparency, and rapport.
+
+  - Focus on your feelings
+  - Usually, the real problem isn't about others. It's all about how confident you are about your feelings and your OK-ness, and whether you know how to express feelings in healthy ways. 
+  - Share information
+  - It's ok to share strong negative feelings if it's motivating your behaviour
+  - Focus on your truth
+
+People who are violated by another don't feel violated. They actually feel afraid, angry, and anxious. People who are called out in front of their peers don't feel disrespected. They most likely feel defensive, angry, or sad. Beware of emotional labels that reinforce a drama-based myth that someone else can make you feel a certain way.
+
+### Resourcefulness
+
+Resourcefulness is the curious collection, assessment, and utilization of resources to guide action. 
+
+#### Three ways to be resourceful
+
+1. Gather ideas and options
+  - Show a spirit of inquiry and curiosity. 
+  - Ask open-ended questions. 
+  - Generate lots of options. 
+  - Play out scenarios. 
+  - Conduct mini-experiments. 
+  - Fail forward
+  - Share the data behind your emotions and motives. If you are upset about something that happened, describe it as objectively as possible without placing blame or making assumptions. 
+  - Explain the gap. 
+  - Disagree while respecting others' intentions and dignity. 
+
+Book: The Five Dysfunctions of a Team, Patrick Lencioni
+Book: Failing Forward: Turning Mistakes into Stepping Stones for Success, John Maxwell
+
+2. Build on successes
+
+  - Think outside the box
+  - Celebrate the small things
+  - Set stretch goals
+
+3. Leveraging personal strengths
+
+Leveraging strengths is one of best ways to boost self-confidence. Any problem can be approached by first asking, "What do I already know how to do that could be used in this situation?" 
+
+  - Explore passion and interests
+  - Focus on strategies instead of inherent qualities. People can't learn others' innate talent, but they can learn and practice strategies
+  - Ask about and affirm intentions
+
+### Persistent
+
+1. State Your Own Boundaries and Commitments... 
+
+  - Keep your list small and focused
+  - Be explicit. Make clear what you will and won't do, and avoid passive-aggressive ultimatums. Announcing your nut allergy is not enough. 
+
+2. Reinforce non-negotiables
+
+> "Compassion without accountability gets you nowhere. Accountability without compassion gets you alienated. Blending the two is the essence of leadership." 
+
+What does it really mean to hold someone accountable? Bringing someone to account means asking them to explain themselves or "account" for their behavior. What most supervisors and parents mean by accountability is that you can be trusted to do what you say, keep your promises, and meet your obligations. It's about consistency between goals and performance, between promises and deliverables, between what you say and what you do. Accountability is commitment to walking the walk, both for you and for the other person. 
+
+  - Finish what you start. Keep your promises. If you can't, or choose not to, then inform those who will be affected, discuss the situation fully and work together on what's next. 
+  - Own the pain and the glory
+  - Don't give up
+  - Remind others about commitment
+  - Be straightforward about what you want
+  - Use consequences carefully
+
+Angela Duckworth's research at the University of Pennsylvania demonstrates that the key predictor of success is not talent, title, wealth, or good looks. It is grit: the ability to work hard for a long period of time toward a focused goal and keep moving forward in spite of challenges, obstacles, and failures. Duckworth says, "Grit is passion and perseverance for long-term goals. It's a marathon not a sprint." 
+
+Constructive. Consequences should maximize the potential for positive learning and growth. No consequence should ever shame or humiliate another person. Persecutor leaders are infamous for calling people out in front of their peers, and scapegoating individuals with inappropriate consequences aimed at teaching everyone a lesson. Coaches who punish the whole team instead of talking to the one person who was late are engaged in destructive consequences. 
+
+3. Accept responsibility and make it right
+
+...you make a mistake, admit it and apologize. If you let someone down, acknowledge it and make it right. Taking responsibility means avoiding excuses or counterattacks, as these behaviors only serve to mask real feelings such as embarrassment, anger, fear, or loss. If you are making excuses or counterattacking, you haven't been open about, or taken ownership of, your emotional motives. 
+
+  - Identify the behavior in question. Don't focus on anyone else's behavior. The most important thing here is to avoid excuses, justifications, or rationalizations for your behavior. The bottom line: what did you do and how did it affect people? 
+  - Apologize for your behavior by saying, "I'm sorry." Don't dilute it with qualifiers like, "I'm sorry for whatever you think I did," or "I'm sorry for how you interpreted what I said." Both of these statements actually blame the other person for feeling upset. 
+  - Offer to make it right. If you have ideas on what you could do to make amends, offer them to the other person. If not, ask them what ideas they have that would help repair the damage. 
+  - Don't throw yourself under the bus. Just because you did a bad thing doesn't mean you are a bad person. Hold your head up, maintain your dignity, and show that you're capable of changing your behavior going forward. 
+
+> ...environments of safety in which we affirm our own and other people's worthiness. Resourcefulness is necessary to support environments of curiosity in which we affirm our own and other's capabilities. Persistence is necessary to support environments of consistency in which we ensure our own and others' accountability to others for our behaviors. 
+
+## Chapter 5: Compassion and the Cycles of Human Civilization
