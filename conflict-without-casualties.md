@@ -315,4 +315,63 @@ Constructive. Consequences should maximize the potential for positive learning a
 
 > ...environments of safety in which we affirm our own and other people's worthiness. Resourcefulness is necessary to support environments of curiosity in which we affirm our own and other's capabilities. Persistence is necessary to support environments of consistency in which we ensure our own and others' accountability to others for our behaviors. 
 
-## Chapter 5: Compassion and the Cycles of Human Civilization
+## Chapters 5-6
+
+Every politician ever:
+
+- We need to protect **our way of life** that we worked hard to create
+- We need to depend **our way of life** from those who would seek to destroy it
+- We need to ensure sustainable access to the resources that enable **our way of life**
+
+### Compassion cycle
+
+Compassion cycle: open, resourceful, persistence,
+which are interdependent ways of feeling, thinking, and acting
+that work productively together.
+
+- Open: expressing feelings and thinking, and goals. Basically explaining where you are at
+- Resourceful: generating ideas for solving the conflict
+- Persistence: implementing a solution
+
+In order to get back from persistence to open, we need to ask for feedback
+about the solution we implemented, instead of just declaring it "solved".
+
+It reminds us a waterfall structure, very structured phases...
+
+Drama inevitably pushes us into corners,
+where we cling to distorted world views that compel us to do the same thing over and over,
+expecting different results. Compassion leads to being able to adapt to change.
+
+### Three rules of the compassion cycle
+
+1. Start at open
+1. Movement is necessary
+1. The only way forward is forward: the only way to move is
+from open -> resourceful -> persistence, without jumping around
+
+This really only applies to conflict situations.
+It is not about what the best solution for the product,
+but what is the best solution for the conflict at hand.
+
+> Openness evens the playing field and Rescuers don't like this.
+Persecutors haven't a clue how to be Open because they are so focused on
+why they are right and everyone else is wrong.
+They can't conceive of entertaining a view other than their own.
+They dare not stop long enough to experience their own feelings
+because it would be too uncomfortable.
+It would make them vulnerable,
+which to Persecutors is the scariest thing imaginable.
+
+> You see a person struggling and want to help.
+Entering at Resourceful-as the first team member did-is tempting.
+You have ideas about how you can help and want to share them.
+You may even have a great solution that you know would solve the problem.
+Maybe you are just curious and want to figure out what's going on so you can be more helpful.
+
+## Chapter 7 - warning! Drama Approaching
+
+"Everyone has a plan until they get hit"
+- Mike Tyson
+Should really have been "... until they get punched in the mouth"
+
+[Quote origins](https://github.com/Blackmill/book-club/issues/12#issuecomment-485639479)
