@@ -375,3 +375,97 @@ Maybe you are just curious and want to figure out what's going on so you can be 
 Should really have been "... until they get punched in the mouth"
 
 [Quote origins](https://github.com/Blackmill/book-club/issues/12#issuecomment-485639479)
+
+## Chpater 7
+
+### Giving In (victim)
+
+Giving in is usually motivated by fear that conflict would lead to disapproval or rejection by others. The false belief is "I'm only OK if I don't cause any conflict."
+
+Getting back on the Compassion Cycle requires a return to Openness.
+
+Affirmations:
+
+- "I am OK. My boundaries and needs, feelings and wants matter."
+- "I am worthy of pursuing what I want, just like anybody else."
+- "How someone responds to me, even if I don't like it, doesn't define me."
+
+### Giving unsolicited advice (rescuer)
+
+Giving unsolicited advice stems from the belief, "I know better and you need my help, even if you didn't ask for it."
+
+The drive to protect others from their own insufficiencies masks a hidden desire to be perceived as competent and responsible. The belief is, "You will be OK if you take my advice."
+
+Resourcefulness emphasises, "You and I are capable," while unsolicited advice emphasises, "I am capable and you need my help even if you don't ask for it."
+
+There's nothing wrong with advice, as long as the other person is open to it and has given you permission to offer it. One of the most simple ways to avoid giving unsolicited advice is simply to ask a person if you may share something with them.
+
+Affirmations:
+
+- I am smart and capable. Others can be as well if I let them.
+- I am most helpful when people ask me first and are open to my help.
+- Being available, even without giving advice, is a terrific way to help.
+
+### Giving ultimatums (persecuter)
+
+An ultimatum reflects an attitude that the person is no longer willing or interested in struggling with. They've chosen being justified over being effective. People usually resort to ultimatums because they feel angry, afraid, frustrated, desperate, hurt, or embarrassed and don't have the skill or confidence to do anything else. Fearing that they are losing control, they use ultimatums to cover up the authentic need to be respected and valued.
+
+Ultimatums send the message, "If you do XYZ, then I will have every justification to Persecute you."
+
+**A valuable lesson about what happens when two Persecutors compete. Everybody loses no matter how right they are.**
+
+Affirmations:
+
+- I'm not a quitter. That's admirable.
+- By affirming the best in others, I will get their best effort.
+- Sometimes being effective is better than being right.
+
+## Chapter 8: it's all about choices
+
+"I'm feeling anxious (emotion) about this transition and would really like some clarity (intention)."
+
+"I care a lot (emotion) about you and want to help (intention)."
+
+Sharing what I want or need to get closer to that goal is the critical next step to turn my intention into something more.
+
+**"I'm feeling anxious (emotion) about this transition and would really like some clarity (intention). Will you help me work through this (ask)?"**
+
+**"I care a lot (emotion) about you and want to help (intention). How can I support you (ask)?"**
+
+People who don't ask for what they want usually end up in the Victim role.
+
+Many people fear that asking for what they want makes them too vulnerable and is a set-up for disappointment. This is true only if you believe the myth, "others can make me feel good or bad emotionally."
+
+Openness is about recognising that I am worthy. Therefore, sharing what I want is simply the next step to demonstrate to myself and others that this is true.
+
+### Resourcefulness and the power of letting go
+
+- "I understand my options and the pros and cons of each one."
+- "There are three things I could do to advance my objectives."
+- "The plan is ready to execute."
+
+### Let go and move on
+
+This habit wreaks havoc on my waistline. And I think it all stems from my difficulty letting go and moving on. I worry that the other person's food might end up tasting better than mine and then I would be disappointed. I worry that the option I don't choose might have been the better one. It's crazy-making!
+
+Avoiding the choice to take action, let go, and move on costs companies billions of dollars a year in the form of lost opportunities, resources wasted in predictive analyses, and bringing in more consultants whose recommendations are never implemented. How is it that people, teams, and organisations can put so much into planning, learning, and organising yet avoid taking the leap to implementation?
+
+- Loss of control
+- Loss of options
+- Loss of certainty
+
+Statements to avoid (have empathy!):
+
+- "Just do it."
+- "In a week it will seem like nothing."
+- "We simply have to make a decision!"
+- "What's the big deal?"
+
+### Stop and listen: make the choice to practice empathy
+
+Persistence keeps working toward a goal, while Openness revels in the moment.
+
+The danger of Persistence is that we get so focused on our goals, mission priorities, strategic plans, and action steps that we lose focus on the world around us and within us.
+
+From Non-violent Communications book:
+> ...the behavior of others may be a stimulus for our feelings, but not the cause. We are never angry because of what someone else did. We can identify the other person’s behavior as the stimulus, but it is important to establish a clear separation between stimulus and cause. 
