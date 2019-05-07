@@ -585,3 +585,20 @@ Most often, a person in drama will not accept your invitation the first time—m
 4. Be patient
 5. Be prepared
 6. Be kind
+
+## Chapter 11
+
+
+
+# Meta talk
+
+## Elle
+Things I find lacking in this book, discussion about:
+- compromise
+- when is it appropriate to bring things up
+- should we bring things up at all?
+- how to evaluate the situation
+- what to do when you're the victim, and the persecutor is your boss
+
+... just to name a few...
+
