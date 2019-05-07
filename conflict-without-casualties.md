@@ -469,3 +469,119 @@ The danger of Persistence is that we get so focused on our goals, mission priori
 
 From Non-violent Communications book:
 > ...the behavior of others may be a stimulus for our feelings, but not the cause. We are never angry because of what someone else did. We can identify the other person’s behavior as the stimulus, but it is important to establish a clear separation between stimulus and cause. 
+
+## Chapter 9 — Coaching Accountability When There’s No Drama
+
+### Meeting people where they are
+
+"Match and Move" helps you meet people where they are on the Compassion Cycle and facilitate the appropriate Choice to Move. Match and Move is used only when someone is in the Compassion Cycle, exhibiting one of the three compassion skills.
+
+- The helper (therapist, coach, mentor) joins the client in their development path, seeking to understand his or her frame of reference, validate his or her worldview, and affirm his or her experience.
+- Together, then, the two move forward on a journey.
+- The helper facilitates growth and learning but doesn’t direct it.
+
+Compared to the helper setting a high standard and pulling the client up, this represent a drama versus compassion approach to helping and encourages less drama.
+
+Coaching is about meeting the client where they are and helping them to succeed at their goals.
+
+	The diagrams about Meeting People Where They Are didn't seem the best choice. The second one seems kinda patronising. The Helper is still dragging someone up to their own level as if they know all.
+
+	We all struggle with how to translate this language into our own. Nobody talks like the characters in the book. 
+
+	We're also uncomfortable with the introduction of terms like behavioural commitment without definition or explaining the concept.
+
+### Match and Move from Open to Resourceful
+
+When a person is showing one of the three compassion skills, the best thing to do is meet them where they are by showing the same compassion skill yourself.
+
+How much compassion matching you engage in depends on the situation. Situations that are more emotionally charged or where the stakes are higher might require more matching than others.
+
+The best way to know if your compassion match was effective is whether the person accepts your invitation to make the Choice to Move.
+
+The “Move” part in Match and Move is to invite and facilitate the other person to make the choice to reveal what they want. The key to inviting the Choice to State Your Wants is to keep the responsibility on the other person.
+
+You can't force someone to move, you can only invite them to. Whether or not they accept the invitation doesn’t change their accountability for behavior or performance. Nor does it absolve the helper of their responsibility to hold the client accountable for their performance.
+
+### Match and Move from Resourceful to Persistent: inviting the choice to Let Go and Move On
+
+You can identify when someone is at Resourceful if they are exchanging information, exploring options, asking curious questions, or generating possibilities.
+
+Leaders should put a lot more energy into positively motivating their employees. It’s a huge driver of performance and morale.
+
+As a leader, your job is to help people increase their capability at Resourcefulness. Ownership over decisions and choices is a tremendously powerful thing. Taking away that authority and accountability from someone should be done as rarely as possible.
+
+Making the choice to Let Go and Move On around small decisions can help build confidence to make bigger decisions later on. If you are trying to Match and Move someone out of Resourceful and are encountering resistance, try breaking the big decision into smaller ones.
+
+For the choices that matter most, we can’t guarantee no negative consequences. There’s never a way to avoid all fear and loss. This is OK. Leading out of drama requires leaders to acknowledge this, give space to talk about it, help people process it, and move forward anyway.
+
+	We all feel like Javier has clearly worked very hard for his achievement and Juanita's response is simply to push him on the next phase without a break or celebration. The Compassion Cycle seems to be a perpetual motion machine, always driving people forward without pause.
+
+
+### Match and Move from Persistent to Open: inviting the choice to stop and listen
+
+Persistence is about finishing what you start, doing what you said you would do, and sticking to your non-negotiable boundaries and commitments. Without it, we wouldn’t be able to count on people and there would be no consistency in our lives.
+
+Persistence is highly effective to a point. Overused or abused, Persistence becomes legalism, closed-mindedness and tunnel vision.
+
+### Up, down, or sideways
+
+Match and Move is a great coaching tool to enhance positive accountability with anyone in your life, not just for a boss with a subordinate.
+
+	Everything about this book's model requires a lot of training and practice. Building a culture where everyone feels safe and can have open discussions seems less likely to produce drama. Are these the same cost? Organic cultural creation usually results in a mess. Culture requires thought and deliberate implementation.
+
+	We segued into a large conversation on culture here, referencing:
+	- [Reinventing Organisations](https://www.amazon.com/Reinventing-Organizations-Creating-Inspired-Consciousness-ebook/dp/B00ICS9VI4/)
+	- [Deliberately Developmental Organisations](https://www.amazon.com/Everyone-Culture-Deliberately-Developmental-Organization-ebook/dp/B01BO2ITX2/), and
+	- a talk Elle saw that was a private reference she can no longer find.
+
+
+## Chapter 10 — The Formula for Compassionate Conflict
+
+### The Formula for Compassionate Conflict
+
+CC = O-R-P-O
+Compassionate conflict = Open, Resourceful, Persistent, Open
+
+	O-R-P-O reminds us again of [Non-Violent Communication](https://www.amazon.com/Nonviolent-Communication-Language-Life-Changing-Relationships-ebook/dp/B014OISVU4/)
+
+The Formula can be used any time you detect a drama role in yourself or another person, or you identify a significant gap between what you want and what you are experiencing and want to pursue a solution that requires conflict.
+
+Start at Open. Begin by disclosing your own feelings relevant to the situation, without giving in. This is not the time to point out others’ problematic behaviors or describe what people did or didn’t do.
+
+Move to Resourceful. Describe any resources you are willing to offer to problem-solve how you will try to close the gap between what you want and what you are experiencing. If there is information or resources you want, describe what they are. Avoid giving advice or suggesting what others could or should do to help you.
+
+Progress to Persistent. State your boundaries or “non-negotiables,” as well as your commitments.
+
+Finish with Open. Return to Open by checking in with yourself or others about their perspective, feelings, and desires. Stop to listen and be receptive.
+
+### The ORPO apology
+
+1. Share your feelings (Open)
+2. Identify Your Behavior and its Impact (Resourceful)
+3. Make it Right (Persistence)
+4. Be Receptive (Open)
+
+### Why does the formula work so well?
+
+The Formula for Compassionate Conflict works so well because it complies with the rules of the Compassion Cycle.
+
+By starting at Open, it promotes an environment of safety where real feelings and motives can be revealed.
+
+Openness only has bite if it dedicates resources to learning at Resourceful and is clear about what’s at stake at Persistence. Resourcefulness only thrives if it is informed by the true emotional motives at Open, and held accountable by the non-negotiables of Persistent. Persistence only has credibility if it has done its due diligence at Resourceful, and cares enough to continue along the cycle to Open, where it stops and listens.
+
+The Formula offers multiple “points of entry” onto the Compassion Cycle. This is powerfully disarming and can be transformative for someone who’s looking for drama.
+
+### How many times does it take?
+
+There’s no guarantee that ORPO will work on the first try. It’s hard for people in drama to receive a response that refuses to justify their respective ally or adversary motives.
+
+Most often, a person in drama will not accept your invitation the first time—maybe not even the second or third time. Struggling with someone may require a lot perseverance and patience. Staying out of drama yourself may be the best you can hope for, and that’s a victory.
+
+### Tips for ORPO success
+
+1. Be drama-free yourself
+2. Be aware
+3. Be realistic
+4. Be patient
+5. Be prepared
+6. Be kind
