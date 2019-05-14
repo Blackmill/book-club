@@ -586,9 +586,35 @@ Most often, a person in drama will not accept your invitation the first time—m
 5. Be prepared
 6. Be kind
 
-## Chapter 11
+# Chapter 11: Preparing to struggle with
 
+In summary: conflict is the gap between expectations and reality.
 
+Inaccurate math: as your resources increases, your stress increases
+
+> When the demands on us (both actual and perceived)
+outweigh the resources we have (or perceive to have), we experience stress
+
+A couple of new topics now in the final chapter of the book:
+
+- Dr Taibi Kahler's six core emotional motives (phase issues) and what happens if you hide these motives:
+  - Fear -> chronic suspicion, trust issues, self-righteous arrogance, and pessimism
+  - Loss -> rigid micromanagement, obsessive compulsive behaviour, and critical attitude towards how lazy and irresponsible everyone is
+  - Anger -> losing confidence and self-esteem, getting personal and depressed
+  - Responsibility -> blaming, complaining, and sarcasm
+  - Autonomy -> avoidance, isolation and a senses of insignificance.
+  - Bonding/intimacy -> negative drama, manipulation
+- Here's the actual cycle you should follow, with six steps:
+  - Mind the gap
+  - Build your open bank
+  - State your wants
+  - Build your resourceful bank
+  - Choose to let go and move on
+  - Build your persistence bank
+
+Would be good to build our own dictionary to use in ORPO communications, and practice.
+
+The book's message gets lost in all the fluff, but the general idea of ORPO is useful.
 
 # Meta talk
 
@@ -601,4 +627,3 @@ Things I find lacking in this book, discussion about:
 - what to do when you're the victim, and the persecutor is your boss
 
 ... just to name a few...
-
