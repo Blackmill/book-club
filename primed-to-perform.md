@@ -294,3 +294,119 @@ Induction / onboarding: a week long onboarding program:
 - Adaptive organisations require adaptive individuals—people with high levels of creativity, problem solving, persistence, and citizenship.
 - ​Individuals adapt when they have high total motivation. The more that people work for the direct motives, and the less that people work for the indirect motives, the more adaptive they will be.
 - ​Great organisations build high-ToMo cultures. They resist their bias to blame individuals. They resist the temptation to freeze. They balance the yin and yang of tactical and adaptive performance.
+
+## Chapter 7: The Torch of Performance
+
+> Imagine if organizations managed their finances like they manage their cultures. … they’d survey their employees, asking, “What do you all think? Are we running out of money?”
+
+### The torch in the darkness
+
+Culture "builders" have heavily focused on measuring tactical performance and employee satisfaction, never shining a light on adaptive performance and maladaptive performance.
+
+The torch is the *total motivation factor* which is a measure of the six motives.
+
+### On the shoulders of giants
+
+The *total motifcation factor* is based upon the Work Extrinsic and Intrinsic Motivation Scale (WEIMS) presented in *[Work Extrinsic and Intrinsic Motivation Scale: Its Value for Organizational Psychology Research](https://www.researchgate.net/publication/232570502_Work_Extrinsic_and_Intrinsic_Motivation_Scale_Its_Value_for_Organizational_Psychology_Research)*
+
+WEIMS is an 18-item measure of work motivation. The authors state that they measured "the applicability of the WEIMS in different work environments", however, it should be noted that the responses came from 465 military workers and 192 civilians.
+
+> Their approach was simple. Using a questionnaire, they would measure how much play, purpose, potential, emotional pressure, economic pressure, and inertia a test subject felt for a given activity.
+
+### Diagnosing ToMo
+
+ToMo analysis has five steps:
+
+1. Measure: formula for the factors' weight, to get a score
+1. Identify issues and test your theory
+1. Analyse the keys of culture and prioritise actions
+1. Set an aspirational ToMo goal
+1. Develop the business case for investment
+
+_"I continue to work at my current job because the type of work will help me to reach my personal goals"_ ...will probably be higher fro millennials that think a lot about their personal career progression.
+
+Average might not be a good indicator, but maybe a median would be more informative.
+
+Each factor also has a different weight also based on how much the business can affect it and change it.
+
+Score might be different over different days, maybe if they picked up a dime...
+
+#### Know your ToMo
+
+> The first step... is to calculate the ToMo for all the people within an organization, and locate the pockets with material differences.
+
+A simple 6-question survey is provided. This questionnaire is a simplified version of the 18-question version provided in the WEIMS analysis. The questionnaire can also be completed at [the Primed to Perform website](https://primedtoperform.com)
+
+The value of direct motives are added and then indirect motives are subtracted.
+
+> The closer the motive is to the work itself, the more powerful that motive is. Hence, the motives have different multiplier weights. Play is more powerful than purpose. Purpose is more powerful than potential. 
+
+- Use ToMo as a diagnostic tool, not as a report card.
+- Don’t become dogmatic about the metric.
+- Make sure your employees’ responses are anonymous
+- If you wish to demonstrate the value of ToMo... make sure to include long-term and holistic measures.
+
+#### Test your theory
+
+Next, use the data to test your theories of where ToMo can be improved.
+
+> Start by thinking of the areas in your organization where adaptive performance is most critical. At the top of the list should be those parts of your organization that interface with customers, impact product quality, require creativity, or are subject to extreme risks. You should also include areas where cheating and other cobra effects could be disastrous.
+
+#### Analyze the keys of culture
+
+There is no single "key" to driving motivation.
+
+> Great cultures come from many small motivators that are all aligned to increase ToMo.
+
+The factors that matter most, however, are:
+
+- Leadership: A leader who practices the specific behaviors that maximize total motivation does add an average of 50 points of ToMo to his or her team, however, it is much easier for a leader to destroy ToMo than to create it.
+- Identity: This includes mission, behavioral code, heritage, and traditions
+- Role design: Designing each and every job to balance tactical and adaptive performance.
+- Career paths: Career ladders where each rung is designed to increase ToMo produce 63 more points of ToMo, and thus better performance.
+- Compensation: Compensation systems tend to lack clarity of the purpose. Compensation systems that celebrate growth add an average of 48 points of ToMo.
+- Community: Strong communities are an effective way to inspire play and purpose
+- Performance management: Many organisations focus entirely on tactical performance at the expense of adaptive performance and/or focus on using emotional or economic pressure to produce results.
+
+The importance of any one of these keys differs across organisations and between teams.
+
+#### Set an aspirational ToMo
+
+"Magical cultures" lead their competitors in ToMo by approximately 15 points.
+
+> We chose a 15-point lead as part of our goal for a practical reason. When we look at ToMo within industries, the magical cultures that we tend to admire typically have a 15-point ToMo advantage over their peers.
+>
+> Organizations in unique industries can set absolute goals, but for many organizations, it makes sense to pick a target relative to the competition.
+
+#### Develop the plan and business case
+
+It is necessary to create a business case for cultural development. Using ToMo, it becomes possible to create a connection between culture-driven spend and economic performance.
+
+ToMo has a strong connection to customer experience. Typically, better customer experience leads to higher prices, higher retention of customers, more cross sales, and stronger recommendations to other customers.
+
+In asset management, higher ToMo leads to greater investment performance.
+
+You should calculate the value of one point of ToMo. Each organisation is different but generally you will need to consider:
+
+> - Increased margin due to improved customer experience, leading to higher prices
+> - Increased margin from less waste and better cost management
+> - Increased direct sales revenue through adaptive sales behaviors
+> - Increased revenue growth (from new products, new segments, or new markets)
+> - Increased revenue growth (from increased word of mouth)
+> - Reduced employee acquisition costs
+> - Reduced employee retention costs
+> - Reduced cost due to maladaptive behaviors (for example, operational risk, credit risk)
+> - Reduced volatility due to better dealing with VUCA
+
+### Night vision
+
+You can't simply clone an Apple Store and expect to see the same results. There are many cultural keys sewn into the fabric of Apple Stores and this allows Apple to keep a higher price point.
+
+> Measuring ToMo allows us to pinpoint the strengths and weaknesses of an organization’s culture. By tracking it over time, we can make sure that it is constantly strengthening, not freezing. By using it in controlled experiments, we can test if our changes are making it better or worse.
+
+### Links:
+
+- Lindsay McGregor's Presentation: https://hello.cultureamp.com/culturefirst-2018-videos/lindsay-keynote
+- https://app.vegafactor.com/reports/ba035684-f415-4041-b388-a89b05f3c9b9
+
+
