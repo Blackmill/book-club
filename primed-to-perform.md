@@ -409,4 +409,72 @@ You can't simply clone an Apple Store and expect to see the same results. There 
 - Lindsay McGregor's Presentation: https://hello.cultureamp.com/culturefirst-2018-videos/lindsay-keynote
 - https://app.vegafactor.com/reports/ba035684-f415-4041-b388-a89b05f3c9b9
 
+## Chapter 8: The Fire Starters
 
+Firestarters
+
+4 types of leadership.
+
+Did anyone identify themselves in these types?
+
+We mostly identified as the hands-off style. Which lead to a conversation about motivation and identifying people who are other types.
+
+A firestarter leader:
+
+1. Provides you with time, space, and encouragement to experiment and learn,
+2. Makes it clear what it means to be performing well,
+3. Challenges you to solve problems yourself.
+
+	Our conversation focused on what it really means to be performing well. Without the traditional measures, how do we define that in a high TOMO environment? 
+	
+
+## Chapter 9: Identity
+
+We talked about commander's intent. Nelson's key work was done in the years previously. The years of dinners and conversations and constant learning. This helped his captains be confident they knew his intent, even without orders.
+
+### Behavioural code
+
+We're very interested in these ideas. Values we all write down and share, but what about other concepts, processes etc. Shopify sends around 'books' of cultural material that has accreted over years - this helps new people with context. thoughtbot has a playbook, a handbook, and guides: for customers, staff, and coding.
+
+
+### References
+
+#### Ch 9 Ref 2
+##### Self-control as a limited resource: Regulatory depletion patterns
+
+[This document](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.585.317) did not appear to actually study what the book said it did. To provide the benefit of the doubt, it is likely that this reference was a mistake. Study 1 did ask participants to squeeze a handgrip, however, they were asked to watch a movie with or without regulating their emotions. The handgrip was used as a measure of effort exerted while regulating emotions.
+
+#### Ch 9 Ref 17
+##### Effects of Work Values on Job Choice Decisions
+
+[This study](https://digitalcommons.ilr.cornell.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1354&context=cahrswp) surveyed 87 students, primarily of Human Resources, of which 67 completed usable surveys. While respondents were ages from 20 to 49 years, the average age was 26 and the average years of job experience was 3.1 years (median was not supplied in either case).
+
+> Half of respondents were currently interviewing for jobs, with the rest of the students expected to interview within a year
+
+> Forty-five percent of respondents expressed a preference for a generalist human resource position, 32% preferred a specialist human resource position, and 23% expressed a preference for some other type of position such as general management.
+
+> A mixed experimental design (Keppel, 1982),incorporating both within-subjects and between-subjects components, was used. The within-subjects design permits researchers to infer the relative importance of particular factors that are related to an individual's decision making.
+>
+> The factors were pay, promotion opportunities, type of work (all identified from the pre-test), and the four value factors derived from Ravlin and Meglino's (1987) value classification.
+
+The four values were achievement, helping others, honesty, and fairness.
+
+> The seven within-subjects independent variables were completely crossed which permits assessment of the independent effects of each factor on job choice decisions. Crossing the factors resulted in 128 scenarios ($2^7$) which contained all possible combinations of the independent variables. The scenarios were presented in the survey in random order to minimize order effects. Each participant was asked to assume that they were offered a job possessing the characteristics included in the description.
+>
+> The dependent variable, probability of accepting a job offer... was measured by a question using a seven-point Likert scale.
+>
+> The between-subjects part of the design permits assessment of inter-individual differences based on individual attributes. Work values were assessed by the Comparative Emphasis Scale (CES)
+>
+> The CES presents 12 statements describing each of the four values. These 48 statements are divided into pairs such that a statement representing each of the four values is paired with each other value four times. For each pair, the individual is asked to check which value the respondent feels should be emphasized most in their own behavior.
+>
+> Primary value orientation was defined as the value preferred over the other values.
+
+5 of the 67 respondents preferenced multiple values equally. They were considered not to have a dominant value preference, and their results were excluded.
+
+> The results presented in this paper suggest that individual value orientations have an important influence on job seekers' decisions when information about organizational value systems are known. The within-subject analyses found that concern for others, achievement orientation, and fairness all tended to exert more influence in the decision making process than did pay and promotional opportunities. The power of values relative to pay and promotional opportunities warrants comment. Pay and advancement potential have been shown to be important determinants of job attractiveness.
+>
+> While these variables did achieve statistical significance in the current study, they emerged as somewhat less important than three of the four value orientations. Rynes et al. (1983) very clearly demonstrated that pay increases in importance as it becomes more variable. They also concluded that the effects of non-pecuniary attributes were interpretable only when pecuniary attributes were specified within the relevant range that subjects might expect in actual job choices. 
+>
+> For all values except honesty, the values present in a job best predict offer acceptance when the value emphasized matched the primary value orientation of the individual.
+>
+> While this study contributes to our understanding of the role of values in both the job choice process and in person — organization fit, replication of the results using different populations is necessary, particularly those with different education levels and opportunity wages. The similar results observed in the two university samples, despite some important differences between the groups, suggests that the results may generalize to several types of workers and job seekers.
