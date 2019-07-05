@@ -478,3 +478,76 @@ The four values were achievement, helping others, honesty, and fairness.
 > For all values except honesty, the values present in a job best predict offer acceptance when the value emphasized matched the primary value orientation of the individual.
 >
 > While this study contributes to our understanding of the role of values in both the job choice process and in person — organization fit, replication of the results using different populations is necessary, particularly those with different education levels and opportunity wages. The similar results observed in the two university samples, despite some important differences between the groups, suggests that the results may generalize to several types of workers and job seekers.
+
+## Chapter 10: The Playground
+
+Chapter 10 described Taylorism 
+
+> Production efficiency methodology that breaks every action, job, or task into small and simple segments which can be easily analyzed and taught. Introduced in the early 20th century, Taylorism (1) aims to achieve maximum job fragmentation to minimize skill requirements and job learning time, (2) separates execution of work from work-planning, (3) separates direct labor from indirect labor (4) replaces rule of thumb productivity estimates with precise measurements, (5) introduces time and motion study for optimum job performance, cost accounting, tool and work station design, and (6) makes possible payment-by-result method of wage determination. (from Wikipedia)
+
+Although it lauds Taylor for treating job design like a playground, it criticizes the theory heavily, saying that flexibility and empowerment in a role is much more important. Several examples are given. 
+
+One of us added another example: Fighter jets have been made safer because there’s no such thing as average. They used to be built to cater to the average pilot, but as there’s no such thing, they didn’t suit anyone. Nowadays, they make them adjustable to suit different people, and accidents have reduced.
+
+An aside from Lachlan: 
+> If you have two equal candidates, you might as well just flip a coin on them instead of inventing a reason to choose one over the other. Both internally and externally, people feel better, because selling the invented reason is difficult and people can tell it’s not sincere.
+
+## Chapter 11: The Land of a Thousand Ladders
+
+They seem to be suggesting that personalised career ladders are possible, we think that perhaps this actually isn't, but perhaps the separation between people management roles and staff developer roles are more what they mean.
+
+### Adaptive Performance Cycles
+
+There are 5 steps to a enabling an adaptive performance cycle.
+Impact Theory
+
+> To become a high performer capable of both tactical and adaptive performance, your job must enable you to understand how your work creates impact.
+
+This was a consistent question today, in our industry, how do we design roles to encourage play? Examples are given in the book for roles focused around menial tasks, but we questioned their relevance to us.
+
+An example of a role designed to foster inspiration (and ToMo) is apparently the workers in Wholefoods, apparently, they are free to build ramps for disabled customers and visit producers. We are skeptical about how true this is.
+
+#### Inspiration
+
+The Toyota example is trotted out again
+Prioritization and planning
+
+They use a metaphor of the Tortoise vs Hare, unfortunately they change every aspect of the famous story, killing any impact this metaphor will have. Tortoise ideas are old school slow moving ideas, and are antithetical to giving people independence an flexibility, quite unlike the old story.
+
+Waterlines – What ideas will sink the ship (hitting below the waterline), or be fine, even if they fail (above the waterline)? How do we tell whether we’re hitting above or below the waterline?
+
+Analogy to Shopify’s does this make commerce better for everyone? Guideline to help people decided whether to do a project or not.
+
+A good example of below the waterline planning, can be accepting large enterprise customers. When companies build custom stuff for big customers, it can have an anti-productive effect. Atlassian had a good example of rejecting customers for these reasons.
+
+#### Performing
+
+They bring up Agile and try to explain it for outsiders, somewhat hilariously. Apparently it’s a big thing!
+
+They claim that flexibility of where and when people work (remote work and flex-time) don’t increase adaptive performance. We are quite confused by this, as in our thinking, they should help cut down on some of the negative motivations of ToMo.
+
+Instead, they claim that flexibility in how people work is the important thing. 
+
+We think that perhaps their ToMo model just isn’t good at measuring the benefits of remote work and flex-time.
+
+#### Reflection
+
+You need to be able to see the outcomes of any experiments you take to improve adaptability.
+
+An example is given, where improving role design, led to people working longer hours. We don’t think that the occasional reference in this book to encouraging longer working hours is a good thing, since there’s plenty of evidence to show it reduced overall performance when people are pushed to work long hours.
+
+A long example about Salesforce.com is provided, apparently switching to agile saved the company.
+
+### Finally
+
+The chapter finishes with a checklist of questions around role design
+* Does the role allow you to see enough of the end-to-end experience to enable you to fully connect cause and effect for VUCA
+* Does the role give you ways to source new ideas and be inspired by different ways of doing the work? 
+* Does your job give you enough insight to figure out which ideas should be tried quickly (hares), versus which should be driven through consensus (tortoises)? 
+* Does the role clearly delineate where tactical performance is required and where adaptive performance is required? 
+* Is the zone of adaptive performance—the playground—designed to solve for the VUCA of the role? 
+* Does the role give you time to reflect?     
+* Does the role give you clarity into your performance and impact?
+
+
+
