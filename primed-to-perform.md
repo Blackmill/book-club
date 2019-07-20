@@ -549,5 +549,151 @@ The chapter finishes with a checklist of questions around role design
 * Does the role give you time to reflect?     
 * Does the role give you clarity into your performance and impact?
 
+## Chapter 13: The Hunting Party
 
+> If your kitchen were infested with bugs, you would have a few options.
+> You could hire ten people to stand guard and squash them whenever they appear.
+> Or you could have those ten people give your kitchen
+> a thorough cleaning and keep it spotless thereafter.
 
+### About free-rider behaviour:
+
+> Free-rider behaviour was greatest
+> when the person felt the activity itself
+> had little intrinsic meaning or value.
+> Free-rider behaviour was also high
+> when the person’s individual contribution could not be determined.
+
+*Free rider effect reminds us of the law of diminishing returns.
+Maybe the problem is not always visibility but complexity.*
+
+#### Eliminating free ride behaviour:
+
+- Increase intrinsic meaning and value of the work to the person
+- Define how contributions are accomplished and measured
+- Role design
+- Knowing the other people - an early step to building community
+
+### Marketplaces vs societies
+
+#### Benefits of strong community:
+
+- Reduces emotional pressure.
+  When you’re working in a strong community,
+  it feels safe to be vulnerable.
+  Because you feel safe, your play and purpose are not canceled out by anxiety.
+- Reduces economic pressure by making you feel less afraid of punishment. 
+- Increases your sense of purpose because the identity of the group is naturally stronger.
+- Inspires sharing knowledge, sharing perspectives, and drives curiosity and play.
+
+Marketplace economic dynamics do not work the same at a team or organisation.
+People believe it does because of four faulty assumptions:
+
+*Some companies do operate as a marketplace to some degree.
+Various companies do compete for time, resources, or budget.*
+
+1. Organisations don’t need citizenship to scale adaptive behaviours.
+2. Cooperation and consistency among players in the organisation is not needed.
+   But consistency is critical for tactical performance in an organisation.
+   And adaptive performance can’t occur without cooperation and citizenship.
+3. Organisations don’t need participants to improve shared resources.
+4. Organisations don’t carry the costs of cobra effects.
+
+#### Society, a different model for community building
+
+> In a society, ToMo drives behaviour, not monetary signals or Darwinian forces.
+> Identity, performance management, compensation design, and leadership behaviours
+> are all pieces of the puzzle.
+> But there is one more cultural key that we have yet to describe:
+> the overall structure that brings all those parts into harmony.
+
+#### Dunbar number
+
+Social interaction is mentally taxing, therefore,
+there is a strong connection between size of brain and the group size we interact with.
+
+> Dunbar has shown that if you don’t interact meaningfully with someone within four months,
+your feeling of emotional closeness will quickly degrade.
+
+- Villages (150-200)
+- Bands (50)
+- Hunting parties (15)
+- Confidants (4-5)
+
+*Villages, bands, parties, and confidants matches
+how the army structures their team, squad, platoon, company....
+
+It's important to have time for social grooming!*
+
+#### Questions to consider, to encourage bands:
+
+- Is there a natural grouping where the knowledge
+  that comes from play should be pooled and exchanged?
+  The group could form around a topic, or a specific objective.
+- How can you help each band form a common identity,
+  based on trust and caring?
+- How does the band build credibility?
+- How do you encourage the band to include apprenticeship
+  in its behavioural code?
+- What routines and resources are needed
+  for the band to share knowledge effectively?
+- How will the band learn together?
+
+> The relationship between the performance of a hunting party
+> and its cohesiveness is highly reciprocal.
+> Bonding leads to high performance and high performance leads to bonding.
+
+#### To encourage confidants:
+
+- Mentorship program.
+- Create leaderless sub-teams of no more than five people
+  to work closely over extended period of time.
+
+*For leaderless groups to be efficient,
+they should have conflict resolution training, and different promotion paths.*
+
+Buurtzorg: where small groups of nurses self- manage and coaches to help them facilitate the work...
+https://www.leadershipandchangemagazine.com/reinventing-organizations-a-case-study/
+
+#### At Gore-tex:
+
+> Bill Gore’s own company has no bosses,
+> no job titles,
+> no “employees,”
+> and no organizational chart.
+> Project teams—its version of hunting parties—
+> are formed organically as people have ideas.
+> Through the power of play and purpose,
+> they have to convince their colleagues to support them.
+
+- Sponsors, not bosses
+- Leaders, not managers
+- Personal commitments, not job titles
+- Guidelines, not rules
+- Investments, not expenses
+- Associates, not employees
+
+#### Waterline principle:
+
+> “The waterline principle means that
+> it’s ok to make a decision that might punch a hole in the boat
+> as long as the hole is above the waterline
+> so that it won’t potentially sink the ship,
+> But, if the decision might create a hole below the waterline
+> which might cause the ship to sink,
+> then associates are encouraged to consult with their team
+> so that a collaborative decision can be made.”
+
+### Questions:
+
+- Does your organisation behave more like a marketplace, or a society?
+- Does every person have the opportunity to form confidant relationships with their peers?
+
+### Other:
+
+> Human beings ought to be treated as ends, not as means to an end...  
+> -- Kant
+
+This quote reminds the discussion of calling team members resources
+
+## Chapter 14: The Fire Watchers
