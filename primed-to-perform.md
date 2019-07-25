@@ -697,3 +697,46 @@ https://www.leadershipandchangemagazine.com/reinventing-organizations-a-case-stu
 This quote reminds the discussion of calling team members resources
 
 ## Chapter 14: The Fire Watchers
+
+A lot of stories without a lot of evidence starts this chapter.
+
+### The Mandate
+	The focus of the fire watchers is to build a culture and a system for continuously improving adaptive performance in every role in the organisation.
+	
+### Adaptive Performance Metrics
+	We’ve already seen how companies tend to make the grave error of focusing on easy-to-measure tactical performance at the expense of adaptive performance. Because the ToMo factor measures the motivational state that leads to adaptive performance, it can be used as the primary performance metric for the culture team. The culture team should be constantly seeking to improve the measurement and to see if there are better ways to use it to drive change and experimentation.
+
+### Budget and Return on Investment
+	One organization we worked with spent around $1 billion per year on marketing. To carefully manage and optimize the tactical performance of that investment, they have about five hundred full-time people. This same company spends about $5 billion on human capital. When we asked them how many analysts they’d assigned to manage and optimize the adaptive performance of that much larger investment, they told us they didn’t have anyone.
+
+### The Team
+A chief culture officer who reports directly to the CEO. The team should comprise core members and rotational members from key parts of the org.
+
+### Apprenticeship and Skill Building
+Culture officers must be given training and support in order to learn the skills necessary for this work.
+
+### Habits
+	“To improve is to change. To be perfect is to change often.”
+ As Winston Churchill is thought to have said.
+ 
+	Constant optimization requires a process. Consider the well thought-through processes that manage your finance function. Culture management also requires an ongoing rhythm, and a set of tools, metrics, and people certified in the science of culture building. Here is one possible cadence:
+
+	1. Monthly: Each culture officer reviews the individual learning goals of each person in their village and analyzes the progress of ongoing experiments and projects.
+	2. Quarterly culture officer goals development: Culture officers come together to prioritize the magnets for investment.
+	3. Quarterly culture team problem-solving session: Culture officers meet to review ToMo measurements, experiments, and adaptive performance outcomes.
+	4. Quarterly problem solving on the state of culture with the executive team: Review of ToMo and quality of culture keys.
+	5. Annual problem solving on state of culture with the board of directors. 
+
+	The point of the cadence is not evaluation. The purpose is to drive adaptive performance by elevating and encouraging problem solving at every level of the organization. This rhythm of constant experimentation is the third step for solving for the coordination challenge.
+
+
+Nick called out this article as relevant:
+https://www.cio.com.au/article/664267/atlassian-revises-performance-reviews-mark-down-brilliant-jerks/
+
+This led to a discussion about the "10x engineer" thread on Twitter, "brilliant jerks" and the rest. None of us are much impressed. 
+
+We also discussed how to actually evaluate the improvements the Fire Watchers are introducing. How often is ToMo being scored? How many measurement periods do we want to indicate improvement? How many points is considered significant?
+
+## Chapter 15: Performance Calibration
+
+
