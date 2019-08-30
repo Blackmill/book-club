@@ -345,3 +345,269 @@ Options:
 Homework:
 
 - Practice lightweight positive feedback.
+
+## Chapter 3: set clear expectations
+
+- Norming stage
+- Goals: define the new norms by setting clear expectations
+- Why: so people can feel aligned to higher-level organisational goals, as well as feel momentum
+- Otherwise, responsibilities can feel ambiguous
+- Develop clear goals as a team, so they can shape the team environment themselves.
+
+Mentioned:
+
+- https://managerreadme.com/
+- https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe
+
+Things to document:
+
+- Roles and responsibilities
+- Team vision or priorities
+- Team practices for collaboration, communication, and workflows.
+
+### Roles and responsibilities
+
+- Career ladder
+- Skills matrix
+- Job descriptions
+
+Useful for:
+
+- performance reviews
+- delivering feedback
+- making a case for a hiring plan
+- writing job ads
+
+**RACI Matrix**
+
+- Responsible
+- Accountable
+- Consulted
+- Informed
+
+Helps to define who gets to make a decision. For example:
+
+- Responsible: two designers on the task
+- Accountable: one of them to communicate progress to business stakeholders
+- Consulted: performance team
+- Informed: working group, whoever got consulted
+
+Introducing this in Shopify has helped a lot,
+cutting down the "too many cooks in the kitchen" problem on projects.
+Dropbox also uses this matrix, and also in emails.
+Top of email has a list, for example, everyone who is cc is informed.
+
+Would people get upset for not being a part of the decision making?
+Not at Shopify, and possibly they might be relieved that they are not responsible.
+Might make it easier to know whether you should do something about this email or not.
+
+**Accountable is a good opportunity to grow sponsee's skills.**
+
+**Responsibility Venn Diagram**
+
+- Define what each is supposed to be doing day to day.
+- Use 1:1s and coaching questions to figure this out,
+for example: pitfalls they see, opportunities for collaboration,
+and what an ideal structure might look like for them.
+
+Example:
+
+- Product manager: "what"
+- Engineering manager: "who"
+- Engineering lead: "how"
+- And everyone responsible for "why"
+
+It could be useful from a different perspective:
+determining that someone should consult someone else,
+and work with others, instead of just by themselves.
+
+Review and reassess every six months: what's not working?
+What should stay the same? what new responsibilities have been added?
+What responsibilities should be delegated to someone who's not represented in the diagram?
+
+> Most important outcome of these exercises is that everyone of the team
+will have a shared understanding for who is doing what,
+and who they should go to for which kinds of questions and decisions.
+
+### Team vision and priorities
+
+VSMO at the team level, not just organisational level:
+
+- Vision: north star
+- Mission: more grounded version
+- Objectives: what the team is set up to do
+- Strategy: measurable goals to help with benchmarking progress
+
+Example:
+
+- Vision: product teams gracefully build compelling experiences on a shared product platform
+- Mission: educate and create infrastructure, empowering Product to craft inclusive and sustainable marketplace.
+- Objectives:
+  - Increase velocity
+  - Define and make it easier to follow Etsy's best practices
+- Resources: how do we work
+
+Why? Help the team to gut check project plans,
+share plans with stakeholders around the company, and back up hiring strategy.
+Should also help with prioritisation.
+
+In most companies, people don't have so much time to define
+all these things so particularly. And this doesn't happen in small companies.
+Lachlan: only company that this was so defined was the army.
+
+Nick: would be useful to define these kind of techniques for communication with people outside of the company. Who to contact and for what.
+
+*Question: is that defined for your team? how clear is your day to day goals and priorities?*
+
+### Team practices
+
+- Makes it easier to onboard a new team member
+
+Should cover:
+
+- Team meetings
+- Email groups and useful slack channels
+- workflows
+
+Tanya: in big organisations such organisations, there are multiple levels of units,
+that this can apply too, and it usually is done ad hoc.
+
+**Meetings**
+
+Have documentation for meetings:
+
+- Meeting description
+- Who should attend
+- Meeting goals
+- Ground rules
+- Timing
+
+Again to be reviewed every six-months.
+
+**Communication**
+
+- Define expectation around work hours, on-call situations, and emergencies
+- Ground rules about communication styles and channels
+- What are the different email groups?
+
+*Question: is that defined at your workplace?*
+
+> As you document your team's messaging channels, email lists, and resources pages,
+remember to include context about why someone might (or must) choose one channel or method over the other.
+
+--
+
+> Speaking of collaboration, it's critical to bake collaboration into your team's workflow.
+
+Set expectations on how to:
+
+- approach problems together: code paring, splitting work
+- communicate with each other, their manager, business stakeholders: ticket management system, outage procedures
+- holding each other accountable: providing feedback.
+
+**Etsy's "Charter of Mindful Communication"**
+
+> Reflect on the dynamics in the room
+> Elevate the conversation
+> Assume best intentions
+> Listen to learn
+
+**Question: what team practices are not documented but should be?**
+
+## Chapter 4: communicate effectively
+
+### Communication plan
+
+> the art of the communication plan: a step-by-step strategy
+for sharing new information throughout an organization
+
+Very useful, and necessary in big companies. It makes it clearer in your own head
+about the message you wish to deliver. Especially when dealing with sensitive information,
+as things can go wrong so quickly. Consider triggers for certain people.
+
+*Template:*
+
+- header: author, date, status
+- background:
+  - what is happening
+  - why
+- people:
+  - who knows
+  - who will be directly impacted
+- timeline
+  - what will be said where and when
+- talking points
+
+Planning the communication, and considering how people will react,
+and planning a response to different groups appropriately.
+
+People expect news in a specific manner, or in a specific order.
+
+Examples: reasons why people get fired
+
+Companies should help drive the narrative of what is happening,
+instead of letting rumours tell a different story.
+
+> Though you won't be able to guess the entirety of your teammates' reactions
+  (humans are surprising!), it can be helpful to brainstorm ways
+  to address their reactions so you can adequately prepare,
+  or help leadership wordsmith announcements in a way that will address folks' core needs.
+
+**Things to brainstorm about:**
+
+- Map big changes back to the things people care about
+- Choose your words carefully
+- Plan out who can be informed
+- Optimise for creating clarity and transparency
+- Remember that others' reactions threaten your amygdala
+
+If the company (leadership) is not careful in their message, they can loose credit with the team.
+
+### When disagreeing with a decision: disagree and commit**
+
+> Disagreeing and committing is the most mature and transparent move you can make.
+  After disagreeing, committing looks like putting your own reservations on hold
+  to give things a try and trust in leadership's decisions.
+  It looks like weighing the pros and cons of a decision,
+  speaking up about potential issues to other leaders,
+  and then agreeing to support the decision
+  even though you're not personally jazzed about it.
+
+If a manager tells the team: "I don't agree with this but we need to do this"
+will cause more problems with the team later on.
+Don't say: "WTF!?" in front of the team.
+
+Sometimes you might be able to say: I disagree with the decision
+but I trust my manager and their experience and decision.
+
+Sometimes, a pushback from one group matches their needs at their level
+but doesn't align with other groups in the organisation,
+and the overall big plan and impact on other work groups.
+It is about conceptualisation of the big picture,
+and finding the right words to get the most people behind this decision.
+
+### Choosing your medium
+
+Rule of thumb: if something requires context, it should be done face to face IRL.
+Otherwise, it can be done in email.
+
+Having regular all hands is useful to avoid rumours mill.
+Qantas Hotels does weekly updates that is open for everyone
+to share what has happened with their corner of the company over the last week(s).
+
+Even when a message is delivered IRL, it is useful to follow up with an email summary.
+
+### Communication styles in colours
+
+- Red: a bit of anger, frustration, edge, or urgency
+- Orange: cautious, hesitant, tiptoes around topics
+- Yellow: lighthearted, effervescent, cracks jokes
+- Green: in tune with others' feelings, loving, high emotional intelligence
+- Blue: calm, cool, collected, steady 
+- Purple: creative, flowy, great at storytelling
+- Brown: adds (and lives in) nuance, complexity, and ambiguity
+- Black: blunt, unfeeling, no nuance, cut and dry
+
+Mentioned:
+
+- https://en.wikipedia.org/wiki/Six_Thinking_Hats
