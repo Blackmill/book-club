@@ -611,3 +611,89 @@ Even when a message is delivered IRL, it is useful to follow up with an email su
 Mentioned:
 
 - https://en.wikipedia.org/wiki/Six_Thinking_Hats
+
+## Chapter 5: Build resiliency
+
+There will always be change happening but, as managers, we should see it as an opportunity to gain experience, try out different tactics, and build up new skills.
+
+### Managing times of crisis
+
+It is our responsibility to provide a safe and supportive work environment.
+
+#### Before a crisis
+
+It can be difficult to process new information in a time of crisis—be clear with teammates.
+
+Prepare in advance:
+
+- Know your benefits;
+- Lead by example;
+- Ask for input; and
+- Keep setting expectations.
+
+#### During a crisis
+
+> As a manager, you’re in a position of both power and familiarity.
+
+Ask your report if there is some way you can support them but make it easy to say "no". If they choose to share, anticipate a dip in productivity and partner to understand what happens next.
+
+It's natural to express sympathy but do not respond in a way that requires *them* to reassure *you*.
+
+> For each major event in the news that may affect marginalized people at your company, partner with your organization’s leadership to craft a clear message of support for those affected
+
+### Managing your energy
+
+Management can be quite taxing and so tactics are necessary to maintain energy levels.
+
+#### Tracking your energy levels
+
+Record the different mental requirements of your day-to-day commitments and how each session makes you feel. Consider grouping meetings/tasks with similar mental requirements to minimise context switching.
+
+#### Reprioritizing your tasks
+
+If volume of work is your problem, you may need to reprioritise. An Eisenhower matrix can help you understand, prioritise, and delegate your tasks.
+
+##### Delegating projects
+
+When you are carrying too many tasks, it is a good time to delegate.
+
+As managers we want to give our teammates clearly packaged work but, in reality, your messy, unscoped project:
+
+- allows them to hone problem-solving abilities;
+- forced them to lean on more people around them; and
+- stretches them into new leadership skills faster than small, simple projects.
+
+More complicated projects will require your support:
+
+- tell them how and in what medium you will support them;
+- tell them that you expect this to be a stretch for them, and that's the point; and
+- use a RACI.
+
+> The goal is to stay in coaching mode when delegating; you want to help your teammate grow, while also freeing yourself up to focus on other work.
+
+##### Saying no
+
+> The best way to troubleshoot your energy drain may be to reduce how often you say yes, and get more practice saying no.
+>
+> If it's not urgent, and not important, it's time to say no
+
+If everything is important, match your tasks to your current mission or vision statement and remove anything that doesn't directly support those goals.
+
+### Building a support network
+
+It's important to be apart of a group of managers who share knowledge and support each other's development.
+
+Be on the lookout for people who:
+
+- will push you out of your comfort zone;
+- have different levels of experience than you do;
+- have experience in a different industry; and
+- are good at the things that you’re terrible at.
+
+#### Growing your Voltron
+
+It can be awkward to ask people to be an in support network with you, especially if you don't know them. Apart from people in your business, you can ask your connections on Twitter or LinkedIn, Slack channels, or people at Meetups. Try asking for their advice on a topic close to their heart.
+
+#### First-team mentality
+
+You should consider your peers to be your "first team"; this will help you understand how others are tackling changes to strategic direction or are coaching their teammates—they will learn from you, too.
