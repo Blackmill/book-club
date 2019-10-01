@@ -1,7 +1,86 @@
 # [Dare to Lead](https://www.amazon.com/dp/B07CWGFPS7/) by Brené Brown
   > _How do you cultivate braver, more daring leaders, and how do you embed the value of courage in your culture?_
 
-## Chapter 1
+## Introduction
+> What, if anything, about the way people are leading today needs to change in order for leaders to be successful in a complex, rapidly changing environment where we’re faced with seemingly intractable challenges and an insatiable demand for innovation? There was one answer across the interviews: We need braver leaders and more courageous cultures.
+
+Is courage a personality trait or a learnt skill?
+
+**"What stands in the way becomes the way."**
+
+Ten behaviours and cultural issues that leaders identified as getting in the way:
+
+1. We avoid tough conversations, including giving honest, productive feedback.
+
+2. Instead of proactively acknowledging and addressing the fears and feelings that show up during change and upheaval, we spend an unreasonable amount of time managing problematic behaviours.
+
+3. Diminishing trust caused by a lack of connection and empathy.
+
+4. Not enough people are taking smart risks or creating and sharing bold ideas to meet changing demands and the insatiable need for innovation. (Reminded of Primed to Perform requirement to adaptive behaviour.)
+
+5. Instead of spending resources on clean-up to ensure that consumers, stakeholders, or internal processes are made whole, we are spending too much time and energy reassuring team members who are questioning their contribution and value.
+
+6. Too much shame and blame, not enough accountability and learning.
+
+7. People are opting out of vital conversations about diversity and inclusivity because they fear looking wrong, saying something wrong, or being wrong.
+  > Choosing our own comfort over hard conversations is the epitome of privilege, and it corrodes trust and moves us away from meaningful and lasting change.
+
+8. Rush with solutions that haven't been identified as the right one. When we fix the wrong thing for the wrong reason, the same problems continue to surface. It’s costly and demoralising.
+
+9. Organizational values are gauzy and assessed in terms of aspirations rather than actual behaviours that can be taught, measured, and evaluated.
+
+10. Perfectionism and fear are keeping people from learning and growing.
+
+**Lead through discomfort**
+
+### The heart of daring leadership
+
+1. You can't get to courage without rumbling with vulnerability. Embrace the suck.
+
+  - Rumbling with Vulnerability
+  - Living into Our Values
+  - Braving Trust
+  - Learning to Rise
+
+2. Self-awareness and self-love matter. Who we are is how we lead.
+
+3. Courage is contagious. To scale daring leadership and build courage in teams and organisations, we have to cultivate a culture in which brave work, tough conversations, and whole hearts are the expectation, and armour is not necessary or rewarded.
+
+**Listen with the same passion with which we want to be heard**
+
+> so that we can innovate, solve problems, and serve people—we have to be vigilant about creating a culture in which people feel safe, seen, heard, and respected.
+
+--
+
+> we should never underestimate the benefit to a child of having a place to belong—even one—where they can take off their armor. It can and often does change the trajectory of their life.
+>
+> If the culture in our school, organization, place of worship, or even family requires armor because of issues like racism, classism, sexism, or any manifestation of fear-based leadership, we can’t expect wholehearted engagement.
+> 
+> Likewise, when our organization rewards armoring behaviors like blaming, shaming, cynicism, perfectionism, and emotional stoicism, we can’t expect innovative work.
+
+## Chapter 1: 
+
+> It is not the critic who counts; not the man who points out how the strong man stumbles, or where the doer of deeds could have done them better. The credit belongs to the man who is actually in the arena, whose face is marred by dust and sweat and blood; who strives valiantly; who errs, who comes short again and again…who at the best knows in the end the triumph of high achievement, and who at the worst, if he fails, at least fails while daring greatly.
+> -- Theodore Roosevelt
+
+**Vulnerability is not winning or losing. It's having the courage to show up when you can’t control the outcome.**
+
+> You are not in the arena getting your ass kicked on occasion, I'm not interested in or open to your feedback. There are a million cheap seats in the world today filled with people who will never be brave with their lives but who will spend every ounce of energy they have hurling advice and judgment at those who dare greatly.
+
+--
+
+> If you're criticizing from a place where you’re not also putting yourself on the line, I’m not interested in what you have to say.
+
+**Get clear on whose opinions of you matter.**
+
+We need to seek feedback from those people. And even if it's really hard to hear, we must bring it in and hold it until we learn from it.
+
+Don't grab hurtful comments and pull them close to you by rereading them and ruminating on them. Don’t play with them by rehearsing your badass comeback. And whatever you do, don’t pull hatefulness close to your heart.
+
+**And no matter how much your self-doubt wants to scoop up the criticism and snuggle with the negativity so it can confirm its worst fears**
+
+**find the strength to leave what’s mean-spirited on the ground.**
+
 ### Square squad
 
 I'm getting clear on whose opinions matter to me. Thank you for being one of those people. I’m grateful that you care enough to be honest and real with me.
