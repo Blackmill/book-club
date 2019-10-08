@@ -141,3 +141,91 @@ More than occasionally, I find that the people who misrepresent my work on vulne
 To feel is to be vulnerable. Believing that vulnerability is weakness is believing that feeling is weakness. Vulnerability is the birthplace of love, belonging, and joy.
 
 Antonio Damasio: "We are not necessarily thinking machines. We are feeling machines that think."
+
+## Chapter 2: the call to courage
+
+Meta discussion on language in the book:
+
+- Teaching via stories
+- Repetitive "rumble" and "this was in my previous book"
+- Possibly "smug tone" rather than "learning with us"
+- Using named phrases and keywords
+- No references to research sources even though the book claims to be based on science
+
+**Clear is kind. Unclear is unkind.**
+
+> Not getting clear with a colleague about your expectations because it feels too hard, yet holding them accountable or blaming them for not delivering is unkind. Talking about people rather than to them is unkind.
+
+Being clear when giving feedback should take into consideration not hijacking the other person's amygdala.
+Rumble style talks about using vulnerability to build trust.
+
+"Trust batteries"
+
+From "I'm not enough" to "this is their fault" is not that far.
+Trying to get people to push through those feelings and anger, and step away to reflect is usually useful instead of immediately putting up armour.
+
+#### Permission slips
+
+> We each wrote down one thing that we gave ourselves permission to do or feel for this meeting... for stating and writing down intentions only, so there are no repercussions if you fail to deliver; however, they are useful for increasing accountability and the potential for support, and also for understanding where everyone in the room is coming from.
+
+Similar to "check-ins" at the start of a meeting, but instead of communicating that to the rest of the team, it is personal, with might need to be very self-aware to be able to do that.
+
+#### Turn and learn for work estimates
+
+Similar to card estimations, and even with team discussion on unknowns and possible complexities, these discussions are still very poor at estimating work and how long it will take.
+
+However it helps to get people on the same page by communicating what else is happening. Which is the same with agreeing on meeting minutes.
+
+#### New meeting minutes process
+
+> Everyone takes their own notes, but one person in the meeting volunteers to capture minutes. These are narrowed down to:
+
+- Date
+- Meeting intention
+- Attendees
+- Key decisions
+- Tasks and ownership
+
+> We now stop meetings five minutes early to review and agree on the minutes before we leave.
+
+Getting out of meeting with different ideas of what should be done happens. So the above can be very useful.
+
+#### Binary thinking
+
+> This type of binary thinking is very dangerous because we're not leveraging the fullness of people. The roles become caricatures and stereotypes
+
+#### How to apologise: core value for leadership
+
+> While some leaders consider apologising to be a sign of weakness, we teach it as a skill and frame the willingness to apologise and make amends as brave leadership.
+
+#### Mental health and loneliness
+
+Possibly another example of being clear with the chosen wording, for example using "lonely" rather than "disconnect". On theme with "clear is kind".
+
+> Leaders must either invest a reasonable amount of time attending to fears and feelings, or squander an unreasonable amount of time trying to manage ineffective and unproductive behaviour.
+
+#### Making space for conversation
+
+You as the leader by your choice of words, clarity, and being vulnerable, can create space for deeper conversations.
+
+> After the third one-on-one addressing the same issue, it's easy to make up the story that this person is just being difficult or even testing us. But what I've found in my own experience is that we haven't gone deep enough. We haven't peeled away enough layers of the onion. And once we start peeling, **we have to leave long pauses and empty space. I know the conversation is hard enough, but people need white space.** Stop talking. Even if it's awkward—which it will be the first fifteen times.
+
+--
+> And when they start talking (which they normally will), listen. Really listen. Don't formulate your response while they're talking. If you have a great insight—hold it. Don't do that thing where the listener starts nodding faster and faster, not because they're actively listening but because they're trying to unconsciously signal the talker to wrap up so they can talk. **Keep a lot of space in the conversation.**
+
+#### Setting boundaries
+
+They're allowed to be pissed or sad or surprised or elated. But if their behaviours are not okay, we set the boundaries:
+
+- I know this is a tough conversation. Being angry is okay. Yelling is not okay.
+- I know we're tired and stressed. This has been a long meeting. Being frustrated is okay. Interrupting people and rolling your eyes is not okay.
+- I appreciate the passion around these different opinions and ideas. The emotion is okay. Passive-aggressive comments and put-downs are not okay.
+
+#### Time outs
+
+> Sometimes a team member will say, "I need time to think about what I'm hearing. Can we take an hour and circle back after lunch?" I really appreciate that because it leads to better decision making. And giving people a reasonable amount of thinking time cuts down on the meeting-after-the-meeting and back-channeling behaviours, which are both outside what’s okay in our culture.
+
+--
+> ...we can't do our jobs when we own other people’s emotions or take responsibility for them as a way to control the related behaviours, for one simple reason: Other people's emotions are not our jobs. We can't both serve people and try to control their feelings.
+
+*Where is the line between being brave or being arrogant? How do you balance it?*
