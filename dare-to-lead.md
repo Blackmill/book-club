@@ -229,3 +229,29 @@ They're allowed to be pissed or sad or surprised or elated. But if their behavio
 > ...we can't do our jobs when we own other people’s emotions or take responsibility for them as a way to control the related behaviours, for one simple reason: Other people's emotions are not our jobs. We can't both serve people and try to control their feelings.
 
 *Where is the line between being brave or being arrogant? How do you balance it?*
+
+## Section 3
+
+> I've always talked about living with an unarmored heart as *wholeheartedness*. In _The Gifts of Imperfection_, I define wholeheartedness as "engaging in both our lives from a place of worthiness. It means cultivating the courage, compassion, and connection to wake up in the morning and think, _No matter what gets done and how much is left undone, I am enough._ It's going to bed at night thinking, _Yes, I am imperfect and vulnerable and sometimes afraid, but that doesn't change the truth that I am brave, and worthy of love and belonging._"
+	
+We had a conversation about the lip service to bringing our whole selves to work and how we might truly live that in our workplaces.
+
+|    | Armored Leadership | Daring Leadership |
+|---:|:-------------------|:------------------|
+| 1. | Driving Perfectionism and Fostering Fear of Failure | Modeling and Encouraging Healthy Striving, Empathy, and Self-Compassion | 
+| 2. | Working from Scarcity and Squandering Opportunities for Joy and Recognition | Practicing Gratitude and Celebrating Milestones and Victories |
+| 3. | Numbing | Setting boundaries and Finding Real Comfort
+| 4. | Propagating the False Dichotomy of Victim or Viking, Crush or Be Crushed | Practicing Integration – Strong Back, Soft Front, Wild Heart |
+| 5. | Being a Knower and Being Right | Being A Learner And Getting It Right |
+| 6. | Hiding Behind Cynicism | Modeling Clarity, Kindness, And Hope |
+| 7. | Using Criticism As Self-Protection | Making Contributions And Taking Risks |
+| 8. | Using Power Over | Using Power With, Power To, And Power Within |
+| 9. | Hustling For Our Wealth | Knowing Our Value |
+| 10. | Leading For Compliance and Control | Cultivating Commitment And Shared Purpose |
+| 11. | Weaponizing Fear and Uncertainty | Acknowledging, Naming, And Normalizing Collective Fear And Uncertainty |
+| 12. | Rewarding Exhaustion As A Status Symbol and Attaching Productivity To Self-Worth | Modeling And Supporting Rest, Play, And Recovery |
+| 13. | Tolerating Discrimination, Echo Chambers, and a "Fitting In" Culture | Cultivating A Culture Of Belonging, Inclusivity, And Diverse Perspectives |
+| 14. | Collecting Gold Stars | Giving Gold Stars |
+| 15. | Zigzagging and Avoiding | Straight Talking and Taking Action |
+| 16. | Leading From Hurt | Leading From Heart |
+
