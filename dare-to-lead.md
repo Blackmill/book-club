@@ -230,9 +230,16 @@ They're allowed to be pissed or sad or surprised or elated. But if their behavio
 
 *Where is the line between being brave or being arrogant? How do you balance it?*
 
-## Section 3
+## Section 3: Armoured Leadership
 
-> I've always talked about living with an unarmored heart as *wholeheartedness*. In _The Gifts of Imperfection_, I define wholeheartedness as "engaging in both our lives from a place of worthiness. It means cultivating the courage, compassion, and connection to wake up in the morning and think, _No matter what gets done and how much is left undone, I am enough._ It's going to bed at night thinking, _Yes, I am imperfect and vulnerable and sometimes afraid, but that doesn't change the truth that I am brave, and worthy of love and belonging._"
+> I've always talked about living with an unarmored heart as *wholeheartedness*.
+In _The Gifts of Imperfection_,
+I define wholeheartedness as "engaging in both our lives from a place of worthiness.
+It means cultivating the courage, compassion, and connection to wake up in the morning
+and think, _No matter what gets done and how much is left undone, I am enough._ 
+It's going to bed at night thinking,
+_Yes, I am imperfect and vulnerable and sometimes afraid,
+but that doesn't change the truth that I am brave, and worthy of love and belonging._"
 	
 We had a conversation about the lip service to bringing our whole selves to work and how we might truly live that in our workplaces.
 
@@ -255,3 +262,115 @@ We had a conversation about the lip service to bringing our whole selves to work
 | 15. | Zigzagging and Avoiding | Straight Talking and Taking Action |
 | 16. | Leading From Hurt | Leading From Heart |
 
+### Perfectionism
+
+> Perfectionism is not the key to success.
+In fact, research shows that perfectionism hampers achievement.
+Perfectionism is correlated with depression, anxiety, addiction, and life paralysis, or missed opportunities.
+The fear of failing, making mistakes, not meeting people’s expectations,
+and being criticized keeps us outside the arena where healthy competition and striving unfolds.
+
+--
+> Perfectionism is not self-improvement. Perfectionism is, at its core,
+about trying to earn approval... perfectionism is not a way to avoid shame.
+Perfectionism is a function of shame... perfection doesn’t exist.
+It’s an unattainable goal. Perfectionism is more about perception than internal motivation.
+
+### TASC
+
+A TASC approach: the Accountability and Success Checklist:
+
+- Task: Who owns the task?
+- Authority: Do they have the authority to be held accountable?
+- Success: Do we agree that they are set up for success (time, resources, clarity)?
+- Checklist: Do we have a checklist of what needs to happen to accomplish the task?
+
+## Section 4: Shame
+
+We are never good enough emotion
+
+> Shame is the fear of disconnection
+
+### Shame 101
+
+1. Universal
+2. We’re all afraid to talk about shame. Just the word is uncomfortable.
+3. The less we talk about shame, the more control it has over our lives.
+
+> Shame is the intensely painful feeling or experience of believing
+that we are flawed and therefore unworthy of love, belonging, and connection.
+
+**Never good enough, and who do you think you are?**
+
+> Shame is watching things change so fast and no longer knowing how and where I can contribute.
+The fear of being irrelevant is a huge shame trigger that we are not addressing at work.
+
+Strong opinions and criticism at work can trigger feeling shame.
+
+**Shame is not a compass for moral behavior.**
+
+> where shame exists, empathy is almost always absent. That’s what makes shame dangerous.
+The opposite of experiencing shame is experiencing empathy.
+The behavior that many of us find so egregious today is more about people being empathyless, not shameless.
+
+### Shame / Guilt / Humiliation / Embarrassment
+
+#### Guilt
+
+Guilt = I did something bad
+Shame = I am bad
+
+#### Humiliation
+
+> People believe they deserve their shame, they do not believe they deserve their humiliation.  
+> -- Donald Klein
+
+#### Embarrassment
+
+> The hallmark of embarrassment is that when we do something embarrassing, we don't feel alone.
+We know other folks have done the same thing and,
+like a blush, the feeling will pass rather than define us.
+
+### How shame shows up at work
+
+- Perfectionism
+- Favouritism
+- Gossiping
+- Back-channeling
+- Comparison
+- Self-worth tied to productivity
+- Harassment
+- Discrimination
+- Power over
+- Bullying
+- Blaming
+- Teasing
+- Cover-ups
+
+When letting people go, give people a **"way out with dignity"**.
+Most business try to check all the legal boxes rather than be considerate to the person being fired.
+
+Generally document why and then fire them. Similar to giving constructive feedback,
+but very few do that, and instead just let people continue to do average work.
+If you can't justify the reason, maybe you shouldn't be firing them? When things are going wrong,
+them start constructive conversations earlier. Giving people a chance to make a chance.
+
+> when the culture of a corporation, nonprofit, university, government, church,
+sports program, school, or family mandates that it is more important
+to protect the reputation of that system and those in power
+than it is to protect the basic human dignity of individuals or communities,
+you can be certain of the following problems:
+> 
+- Shame is systemic.
+- Complicity is part of the culture.
+- Money and power trump ethics.
+- Accountability is dead.
+- Control and fear are management tools.
+- And there’s a trail of devastation and pain.
+
+--
+> Giving people permission to talk about shame is liberating.
+It shines a light in a dark corner. People realize they're not alone.
+Sharing their stories together normalizes shame, creates connection, and builds trust.
+
+### Empathy
