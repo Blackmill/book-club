@@ -374,3 +374,44 @@ It shines a light in a dark corner. People realize they're not alone.
 Sharing their stories together normalizes shame, creates connection, and builds trust.
 
 ### Empathy
+
+## Section 5: Curiosity and Grounded Confidence
+
+As children, our parents gave us lots of armour because our parents generation were not confident in raising children. Grounded confidence comes from making mistakes and learning from them. It's not "blustery arrogance or posturing or built on bullshit". With confidence, "we can trade the heavy, suffocating armour" for bravery. 
+ 
+"Rumbling with vulnerability" is the "fundamental skill of courage building".
+ 
+To be good at stuff, you need to practice. This is true for all this stuff too.
+
+### Grounded Confidence = Rumble Skills + Curiosity + Practice
+
+The bit of the chapter that was praised by all present, was the idea of halting a conversation/argument and saying let's go away and think about this for a bit, then come back and make a decision. Although most of us haven't practiced this, we want to try it out.
+
+A few examples in this chapter were more or less successful. The Old Navy example was good, but the school one didn't seem relevant. Still, there were some good quotes.
+
+> People don’t care how much you know until they know how much you care
+
+## Part 2: Living into our values
+
+This part begins with the metaphor of an arena, that falls apart quite quickly. The bulk of the chapter is a call to action though.
+
+### Live your values
+Step 1: We can't live into values that we can't name
+pick some core values, three of them only. Actual ones, not aspirational ones.
+
+Step 2: Taking values from bullshit to behaviour
+Define three or four behaviours that support our values
+Define some "slippery slope" behaviours that undermine our values
+
+Step 3: Empathy and self-compassion: the two most important seats in the arena
+Regardless of our values, we must consider our privilege and be empathetic
+
+We all had problems with the author's strong preference for faith over family as one of her core values. Richard and Adam read her values in a very negative way, whereas Jo put aside her distaste for the authors relgiousness and tried to see the value in the argument.
+
+### Living into our values and feedback
+
+This is a list of guidelines for "readiness" to give feedback. The list focused on shared responsility for problems, recognising people's strengths and avoiding shaming.
+
+We did have some issues with some parts of the list:
+Sitting next to someone to deliver feedback, rather than across from them, makes eye contact, and several other social cues, difficult.
+Acknowledging their good aspects before sharing feedback can lead to a shit sandwich, that the reciever can see as deceitful. 
