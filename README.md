@@ -6,4 +6,4 @@ This is an open book club. You don't need to work at Blackmill or be a client. Y
 The current book is *[Primed to Perform](https://www.amazon.com/dp/B00S590OQI/): How to Build the Highest Performing Cultures Through the Science of Total Motivation*. You can see where we're up to in the issues: https://github.com/Blackmill/book-club/labels/primed-to-perform
 
 
-See you Tuesday: https://appear.in/blackmill
+See you Tuesday: https://whereby.com/blackmill
