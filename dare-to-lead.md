@@ -415,3 +415,42 @@ This is a list of guidelines for "readiness" to give feedback. The list focused 
 We did have some issues with some parts of the list:
 Sitting next to someone to deliver feedback, rather than across from them, makes eye contact, and several other social cues, difficult.
 Acknowledging their good aspects before sharing feedback can lead to a shit sandwich, that the reciever can see as deceitful. 
+
+## Part 4: Learning to Rise
+
+> The Learning to Rise process is about getting up from our falls, overcoming our mistakes, and facing hurt in a way that brings more wisdom and wholeheartedness into our lives.
+
+instead of being affected by our emotions without any self-control, or ignoring them, or taking them out on someone else
+
+> The best leaders are aware of their emotions
+
+### The Story Rumble
+We often give a knee jerk reaction, then justify our decision by making stuff up and relying on shaky logic. Brown calls this the Shitty First Draft (SFD). 
+
+> The SFD as a concept is Relavatory
+- Lachlan
+
+When you identify a SFD, this is the moment to pause, reflect, and identify why you've made the decision. Identify the bits you made up to justify your decision and improve the SFD. Once the story you use to justify the decision changes, the decision might change too.
+
+Better yet, plan before you made the decision. Elle was reminded of a similar practice from Laura Hogan.
+
+Most of us found the found the book ended abruptly
+
+## Final Impressions
+
+Lachlan likes the permission slip system. It’s ok to call for a break to go for a walk, reflect, come back to things later etc.
+
+Aimee wishes the author clairfied what she means by “clear”. Especially when people are from different backgrounds. 
+We think we know what other people are feeling, but we don’t. However, sharing what we think can help bridge that gap
+To elle this means being super explicit, and spelling things out. And not being too emotional
+
+Elle summarised the book, and got a lot out of the armour section
+
+Richard thinks that vulnerability is an important lesson of the book, but can’t figure out what that balance is between vulnerability and oversharing.
+Aimee read an article about asking permission and being emotionally available, this could help.
+
+Antoine liked the section on Armour. Raising awareness of the types of armour was good. Most people felt this was the most useful part of the book.
+
+Shitty first drafts as a concept was widely praised.
+
+We didn't like the author's language. The use of the term "rumble" turned us all off, and the books was a struggle at times. We think the author is deliberately selling a certain type of US way of life that was alien to us all, even the Americans and people who have briefly lived there. Her overt religiousness also grated. Despite these negatives, we all felt the book was worth reading.
