@@ -10,4 +10,4 @@ Hopefully we'll all learn something from the book and each other.
 
 You can see where we're up to in the issues: https://github.com/Blackmill/book-club/issues
 
-See you Tuesdays, at 12pm Melbourne time: https://whereby.com/blackmill
+See you Wednesdays, at 12pm Melbourne time: https://whereby.com/blackmill
