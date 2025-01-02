@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-# Book: Good Strategy / Bad Strategy by Richard Rumelt
+# Book: Wiring the Winning Organisation by Gene Kim et al.
 
 ## Aiming to read:
 
