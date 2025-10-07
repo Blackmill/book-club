@@ -1,16 +1,16 @@
 ---
-name: Data Feminism
-about: a template for the Data Feminism weekly book session
-title: 'Data Feminism: <date>: Chapters <numbers>'
+name: Zen And The Art Of Motorcycle Maintenance
+about: a template for the Zen And The Art Of Motorcycle Maintenance weekly book session
+title: 'Zen And The Art Of Motorcycle Maintenance: <date>: Chapters <numbers>'
 labels: ''
 assignees: ''
 
 ---
 
-# Book: Data Feminism by Catherine D'Ignazio and Lauren F. Klein
+# Book: Zen And The Art Of Motorcycle Maintenance: 40th Anniversary Edition by Robert Pirsig 
 ## Aiming to read: <Chapters>
 
-## Table of Contents
+## Table of Contents TBC
 Abbreviations ..................................................................................... vi
 Introduction: Why Data Science Needs Feminism ............................. 1
 1 The Power Chapter .......................................................................... 21
