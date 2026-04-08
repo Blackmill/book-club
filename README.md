@@ -17,7 +17,8 @@ See you Wednesdays, at 12pm Melbourne time: https://blackmill.whereby.com/bookcl
 Links take you to our discussion notes.
 
 2026
-* [Both/And Thinking](https://github.com/Blackmill/book-club/issues?q=is%3Aissue%20in%3atitle%20%22both%2Fand%20thinking%22%20sort%3Acreated-asc%20) (in progress) 
+* [When all minds thrive](https://github.com/Blackmill/book-club/issues?q=is%3Aissue%20in%3Atitle%20%22when%20all%20minds%20thrive%22%20sort%3Acreated-asc) (in progress)
+* [Both/And Thinking](https://github.com/Blackmill/book-club/issues?q=is%3Aissue%20in%3atitle%20%22both%2Fand%20thinking%22%20sort%3Acreated-asc%20)  
 
 2025
 * [Zen and the Art of Motorcycle Maintenance](https://github.com/Blackmill/book-club/issues?q=is%3Aissue%20in%3atitle%20%22zen%20and%20the%20art%20of%20motorcycle%20maintenance%22%20sort%3Acreated-asc%20)
